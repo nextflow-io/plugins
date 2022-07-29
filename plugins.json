@@ -836,5 +836,17 @@
         "requires": ">=22.08.0-SNAPSHOT"
       }
     ]
+  },
+  {
+    "id": "nf-quilt",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://github.com/seqeralabs/nf-quilt/releases/download/0.1.0/nf-quilt-0.1.0.zip",
+        "date": "2022-07-29T11:01:44.25779-05:00",
+        "sha512sum": "2098cd13c65649fe9ea64a7a045768f450b770f3f44d959c53caf818149104812f3a297f859d15e8097d48b3b1dac427e036402465f65acdf990772c9df74208",
+        "requires": ">=22.04.0"
+      }
+    ]
   }
 ]
