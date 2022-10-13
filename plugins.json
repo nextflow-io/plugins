@@ -1121,5 +1121,17 @@
         "requires": ">=22.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-quilt3",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://github.com/quiltdata/nf-quilt3/releases/download/0.1.0/nf-quilt3-0.1.0.zip",
+        "date": "2022-10-13T04:58:51.454028+02:00",
+        "sha512sum": "8d68ddeed58f49d0e07875b03c6c583a900b5b9893e421f8faef5ff8837b9d6d2e16f6957076b5595f20cfccd415746bdb0d766d591d133e7d947799a415c344",
+        "requires": ">=22.09.0-edge"
+      }
+    ]
   }
 ]
