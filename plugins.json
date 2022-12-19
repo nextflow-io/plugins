@@ -1219,5 +1219,17 @@
         "requires": ">=22.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-prov",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "date": "2022-12-19T14:05:10.359029-08:00",
+        "url": "https://github.com/Sage-Bionetworks-Workflows/nf-prov/releases/download/1.0.0/nf-prov-1.0.0.zip",
+        "requires": ">=22.11.0-edge",
+        "sha512sum": "fc29033db409d7b8f2b8d1384f80cfe7adc34d41b1c19c9ec9fa2d9c1d293f4ddd21e1de7ecf10257735b70d214b14c88b74cd7a4d673f084673704be0f853a2"
+      }
+    ]
   }
 ]
