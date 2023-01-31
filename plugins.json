@@ -1282,6 +1282,13 @@
         "date": "2022-08-23T18:35:02.945086+02:00",
         "sha512sum": "1620b341b3a58167fb8f6a8d7f731be6ada7b77e224d8c434b378a3b319612619cf42f959fdeb007c96169d20d45fa85d6e47414478c441edc04f27b19668d25",
         "requires": ">=22.04.0"
+      },
+      {
+        "version": "0.3.0",
+        "url": "https://github.com/nextflow-io/nf-quilt/releases/download/0.3.0/nf-quilt-0.3.0.zip",
+        "date": "2023-01-31T10:42:24.764088-08:00",
+        "sha512sum": "31f91a803dc0a10ac366190481e5bdba0af52e6d3fa0db7e540b86aacebe8da443dc1bfb28c8742e1181e7c6dc785944706ed7ee2fe1ae0da8729d84fbc248a5",
+        "requires": ">=23.01.0-SNAPSHOT"
       }
     ]
   },
