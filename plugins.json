@@ -1284,20 +1284,6 @@
         "requires": ">=22.04.0"
       },
       {
-        "version": "0.3.0",
-        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.3.0/nf-quilt-0.3.0.zip",
-        "date": "2023-01-31T10:42:24.764088-08:00",
-        "sha512sum": "31f91a803dc0a10ac366190481e5bdba0af52e6d3fa0db7e540b86aacebe8da443dc1bfb28c8742e1181e7c6dc785944706ed7ee2fe1ae0da8729d84fbc248a5",
-        "requires": ">=23.01.0-SNAPSHOT"
-      },
-      {
-        "version": "0.3.1",
-        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.3.1/nf-quilt-0.3.1.zip",
-        "date": "2023-01-31T11:49:28.859425-08:00",
-        "sha512sum": "8518d236fde1cf440ce73efd2b65c505a3eeeac0fa94d40aab8b34878384b883107b6968a0e9880e2861338b97f9a07425f750b00b6ec831bff86ce2d39c58ad",
-        "requires": ">=23.01.0-SNAPSHOT"
-      },
-      {
         "version": "0.3.2",
         "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.3.2/nf-quilt-0.3.2.zip",
         "date": "2023-02-02T23:40:28.761732-08:00",
