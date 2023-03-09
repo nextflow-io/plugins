@@ -1344,7 +1344,7 @@
         "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.3.3/nf-quilt-0.3.3.zip",
         "date": "2023-03-08T10:56:53.523525-08:00",
         "sha512sum": "2a4c9952090851d63010500d3777d50545f6d2521e928fc06799e2cf57fb24dbdf666e89652f74d0aad99d0ed188f62ae9573b8c014c7206da6ce4e0190c1be5",
-        "requires": "<22.11.0-edge"
+        "requires": ">=22.10.6"
       }
     ]
   },
