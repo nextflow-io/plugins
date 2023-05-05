@@ -1563,5 +1563,17 @@
         "sha512sum": "306d2ddd6a56d4c501f49d787648508ce2c876fe319541b22580fe0ee0e178709f6996b059a7c52100f41008a4aa97b0fe5e4fedb6ed96863bc25eb382bf1f7c"
       }
     ]
+  },
+  {
+    "id": "nf-validation", 
+    "releases": [
+      {
+        "version": "0.1.0",
+        "date": "2023-05-05T15:06:08.481+02:00",
+        "url": "https://github.com/nextflow-io/nf-validation/releases/download/0.1.0/nf-validation-0.1.0.zip",
+        "requires": ">=22.10.0",
+        "sha512sum": "b258fce687f8f977c5cc075a9bfcd98dcddf2fb64ea590517f3267fa9778afeac5311c8e0359c0cb9717df5378c0420b0eaad3d1bac3c95c6925f35e31310f4d"
+      }
+    ]
   }
 ]
