@@ -1576,6 +1576,13 @@
         "date": "2023-04-05T11:32:51.334559-07:00",
         "sha512sum": "09fe7c2b2941e1942a244ee2bc6faa3389b4190dc222a5d046244c2ba1fe74bf316bfa73ff113d3f975297add2b370440bd860bba41f8b40f4d27619937967fa",
         "requires": ">=22.10.6"
+      },
+      {
+        "version": "0.4.0",
+        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.4.0/nf-quilt-0.4.0.zip",
+        "date": "2023-05-19T18:00:22.425192-07:00",
+        "sha512sum": "775a2164541f0b87f4aa2eca6f1e0af9482777801801fb33527f59e28f469af89c69c1660e23569c85f2134b3158d312a0a0ab0118d8f53f9a8d154527a41529",
+        "requires": ">=22.10.6"
       }
     ]
   },
