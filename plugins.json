@@ -1645,5 +1645,17 @@
         "requires": ">=22.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-float",
+    "releases": [
+      {
+        "version": "0.1.7",
+        "date": "2023-05-25T17:24:17.211959+08:00",
+        "url": "https://github.com/MemVerge/nf-float/releases/download/0.1.7/nf-float-0.1.7.zip",
+        "requires": ">=22.10.0",
+        "sha512sum": "86d69ae625f920c80e92b12311671ee88683219040ad09f9d9057f6b324cc901e35e470604f8c901daaba570f1a412a3161e7945e8ba53a3967fa940d90d3251"
+      }
+    ]
   }
 ]
