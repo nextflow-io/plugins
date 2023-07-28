@@ -1,0 +1,15 @@
+name: Validate plugins.json
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validate JSON file against schema
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          file: plugins.json
+          schema: .github/schema.json
