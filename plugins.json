@@ -1597,6 +1597,13 @@
         "date": "2023-07-02T21:42:45.641808-07:00",
         "sha512sum": "bd426428eaf6a5a5942958cc1795943e1e62d62c9f90e15a877fee2fc5a391831f312fb876c00153957a770ea3a4d04777ef37665d69d1933a2b00c7e2d1a62a",
         "requires": ">=22.10.6"
+      },
+      {
+        "version": "0.4.3",
+        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.4.3/nf-quilt-0.4.3.zip",
+        "date": "2023-07-27T17:42:44.618233-07:00",
+        "sha512sum": "ed1d7895fc6fb4a73e9fc7fe0eb7a02ae96b57cadddfd3547b52a34834da40afc89b4451e7fc9551999931b83e87c8e4ebf592bf936a4d492b9f09d96b2ea0fc",
+        "requires": ">=22.10.6"
       }
     ]
   },
