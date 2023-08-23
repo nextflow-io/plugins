@@ -1702,6 +1702,13 @@
         "date": "2023-07-27T17:42:44.618233-07:00",
         "sha512sum": "ed1d7895fc6fb4a73e9fc7fe0eb7a02ae96b57cadddfd3547b52a34834da40afc89b4451e7fc9551999931b83e87c8e4ebf592bf936a4d492b9f09d96b2ea0fc",
         "requires": ">=22.10.6"
+      },
+      {
+        "version": "0.4.4",
+        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.4.4/nf-quilt-0.4.4.zip",
+        "date": "2023-08-22T19:44:48.017046-07:00",
+        "sha512sum": "69a47e82d22ad254cef359d3d7ac6ca0354ea2c2536bde7114be3ca2a57cf39f9cfefe6badd5b57af4dfce345bd2ccee4160000ab923509b843c08d454ea7539",
+        "requires": ">=22.10.6"
       }
     ]
   },
@@ -1748,10 +1755,10 @@
       },
       {
         "version": "1.0.2",
-        "date": "2023-07-25T15:06:11.918184+02:00",
         "url": "https://github.com/CommonWorkflowScheduler/nf-cws/releases/download/1.0.2/nf-cws-1.0.2.zip",
-        "requires": ">23.02.01-edge",
-        "sha512sum": "55dd587fd77db501e9a87308d172b64d1eada4002cd45300e421b2912a99c0a329a263e2a710a9cb5b0b742f9760a12b6666ea5a12b259c113bcedb46370a02f"
+        "date": "2023-07-25T15:06:11.918184+02:00",
+        "sha512sum": "55dd587fd77db501e9a87308d172b64d1eada4002cd45300e421b2912a99c0a329a263e2a710a9cb5b0b742f9760a12b6666ea5a12b259c113bcedb46370a02f",
+        "requires": ">23.02.01-edge"
       }
     ]
   },
@@ -1833,10 +1840,10 @@
       },
       {
         "version": "0.2.0",
-        "date": "2023-07-26T11:08:51.512667+08:00",
         "url": "https://github.com/MemVerge/nf-float/releases/download/0.2.0/nf-float-0.2.0.zip",
-        "requires": ">=23.04.0",
-        "sha512sum": "20cff1399ea4f9cfc976a50069ea40dafb59b6b18bde560d4e2dcf1cbcc23a78b3cbb2a35a3518a7b242c5145804ab71601951a08ee97560f54e1560bed0b4e6"
+        "date": "2023-07-26T11:08:51.512667+08:00",
+        "sha512sum": "20cff1399ea4f9cfc976a50069ea40dafb59b6b18bde560d4e2dcf1cbcc23a78b3cbb2a35a3518a7b242c5145804ab71601951a08ee97560f54e1560bed0b4e6",
+        "requires": ">=23.04.0"
       }
     ]
   },
