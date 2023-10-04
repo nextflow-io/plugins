@@ -1849,6 +1849,13 @@
         "date": "2023-08-25T10:26:10.17939-07:00",
         "sha512sum": "fc50088e5ba72dce117f7a9bce9bb31811aa66ef9c2ea5e303312d6b085daa8955470830da7faa77a432d0c406712d432b00286502e5090753397eb186551584",
         "requires": ">=22.10.6"
+      },
+      {
+        "version": "0.6.0",
+        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.6.0/nf-quilt-0.6.0.zip",
+        "date": "2023-10-04T08:06:41.213826-07:00",
+        "sha512sum": "12213005f4ee119ebc0547a3e0c8e6babfa1dc636baa6fc55dac3cceff2a4def3554d0f138bbd95fe00991bc5734fd8ca7777ec0b5870b3dd8684415e5bb506f",
+        "requires": ">=22.10.6"
       }
     ]
   },
@@ -1909,10 +1916,10 @@
       },
       {
         "version": "1.0.3",
-        "date": "2023-10-02T10:28:45.260319+02:00",
         "url": "https://github.com/CommonWorkflowScheduler/nf-cws/releases/download/1.0.3/nf-cws-1.0.3.zip",
-        "requires": ">23.02.01-edge",
-        "sha512sum": "13613b1b5904ed490e9796e8eb9c26498b5ea9bf1b98dcf234215ca6dde19f3ff620b893dfe048b2d8d440450c5cb1c10badf889331c784aae209352f2446090"
+        "date": "2023-10-02T10:28:45.260319+02:00",
+        "sha512sum": "13613b1b5904ed490e9796e8eb9c26498b5ea9bf1b98dcf234215ca6dde19f3ff620b893dfe048b2d8d440450c5cb1c10badf889331c784aae209352f2446090",
+        "requires": ">23.02.01-edge"
       }
     ]
   },
