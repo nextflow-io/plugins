@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/nextflow-io/plugins/blob/main/schema.json",
+  "type": "array",
+  "items": {
+    "title": "plugin",
+    "required": ["id", "releases"],
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "releases": {
+        "type": "array",
+        "items": {
+          "title": "release",
+          "required": ["date", "requires", "sha512sum", "url", "version"],
+          "type": "object",
+          "properties": {
+            "version": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^https?://.+\\.zip$"
+            },
+            "date": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "sha512sum": {
+              "type": "string",
+              "minLength": 128,
+              "maxLength": 128
+            },
+            "requires": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}
