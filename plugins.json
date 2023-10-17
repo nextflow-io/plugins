@@ -1788,6 +1788,13 @@
         "date": "2023-10-10T12:05:58.656565+02:00",
         "sha512sum": "bb89c3a2a0ad9861455547ffdc349e4e329a3faf5ab3f909dbaa7ae5c833b1930aafadbd7b71f6dee1aa24793d8913361b01b9ca0f4a89fe460d4497d97f971c",
         "requires": ">=23.05.0-edge"
+      },
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.0.0/nf-wave-1.0.0.zip",
+        "date": "2023-10-15T17:15:28.691721+02:00",
+        "sha512sum": "cf12965de0a1390d4c7b99a135b024ff5970592a62db53210a37f8ced870df7382a10b5c9fa5617730b025ac3fda1971cc0861aab3cb3cb43304c2240fd6c4fd",
+        "requires": ">=23.05.0-edge"
       }
     ]
   },
@@ -1879,17 +1886,45 @@
         "requires": ">=22.10.6"
       },
       {
-        "version": "0.6.0",
-        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.6.0/nf-quilt-0.6.0.zip",
-        "date": "2023-10-04T08:06:41.213826-07:00",
-        "sha512sum": "12213005f4ee119ebc0547a3e0c8e6babfa1dc636baa6fc55dac3cceff2a4def3554d0f138bbd95fe00991bc5734fd8ca7777ec0b5870b3dd8684415e5bb506f",
-        "requires": ">=22.10.6"
-      },
-      {
         "version": "0.7.0",
         "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.7.0/nf-quilt-0.7.0.zip",
         "date": "2023-10-05T10:55:24.507577-07:00",
         "sha512sum": "87016b49b89f64e9bd086ca71847fd29abb9d3779beb62e702422423d986058728a016f82d2b860bc54fcd5551ca4200c0dc6f73b160fad75ac5b136b827ac5f",
+        "requires": ">=22.10.6"
+      },
+      {
+        "version": "0.7.1",
+        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.7.1/nf-quilt-0.7.1.zip",
+        "date": "2023-10-15T19:48:21.887087+02:00",
+        "sha512sum": "c0d3b752cc980281d21b737a25e1503c4fd3c2b5455033e7b87bf460dd746fe75f8ff136277499f8b9533340f25563afa2f8b0079599ea9c1ace80175bd13d61",
+        "requires": ">=22.10.6"
+      },
+      {
+        "version": "0.7.2",
+        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.7.2/nf-quilt-0.7.2.zip",
+        "date": "2023-10-16T20:50:00.965864+02:00",
+        "sha512sum": "7b389226e520bbf84a4ee631e916bfd4ef4e0a0d9b93095b7f16c0be2d77687ad5beb3e1f3bdfc4ee4fda0af3e1aa797067d6a2cfae27790b84323224f3e05f3",
+        "requires": ">=22.10.6"
+      },
+      {
+        "version": "0.7.3",
+        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.7.3/nf-quilt-0.7.3.zip",
+        "date": "2023-10-16T22:02:09.854057+02:00",
+        "sha512sum": "7e6c374f28cef600f415a54487b5637df531d2128623440d50bc1ce7d4035acc21f8852fe1cb06af97bda0b20cc3095e344e5b1fb84a620c9d257ac45747ccfc",
+        "requires": ">=22.10.6"
+      },
+      {
+        "version": "0.7.4",
+        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.7.4/nf-quilt-0.7.4.zip",
+        "date": "2023-10-17T08:48:48.200128+02:00",
+        "sha512sum": "2b29f9ecb72abf6538d40ed913164d8f2900773a21eda846a5e8e1c1721b0655a386fd10025468a498b06c08eddb188bab5346167542a9740aeea3989d13f08d",
+        "requires": ">=22.10.6"
+      },
+      {
+        "version": "0.7.5",
+        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.7.5/nf-quilt-0.7.5.zip",
+        "date": "2023-10-17T12:48:27.411345+02:00",
+        "sha512sum": "62dc9ae3cab622d79d1fd2d34c88f99e6c7cba1f7db77d98c6b6a883c126a176f0b2297a8eea87f5b8b37b5bb0c774090c452e9a3ab8dc9cf5845accaa1bde6e",
         "requires": ">=22.10.6"
       }
     ]
@@ -2028,6 +2063,13 @@
         "date": "2023-10-10T12:35:43+02:00",
         "sha512sum": "94804d119de5b25bea620494d575c16426ec601b858013bc0097e45d5e67f820ed41a2cc74ca42f3a4a5b9257169ffb03a61cce9b730ad1f9dd2bb0759c493b9",
         "requires": ">=22.10.0"
+      },
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/nextflow-io/nf-validation/releases/download/1.0.0/nf-validation-1.0.0.zip",
+        "date": "2023-10-12T10:52:42+02:00",
+        "sha512sum": "d947754cf20a750e3e94c9b6d9631bb894e3b94a3acfb846ab632997957c950e5adccd8061b8d9e12701c6cf8405c81edb5b93460afbc75abfcfe63c30786840",
+        "requires": ">=22.10.0"
       }
     ]
   },
@@ -2067,6 +2109,13 @@
         "url": "https://github.com/MemVerge/nf-float/releases/download/0.3.1/nf-float-0.3.1.zip",
         "date": "2023-08-21T16:06:48.435747+08:00",
         "sha512sum": "7bd0e18e4d0b20a38ba79fc9b0e977fd4580c6c0302ac3e703d32945ba26a58e5c9d5f44e522ae6c11e5e234bf201cd3d7716fdabce5d0b3a72378df9cb118dd",
+        "requires": ">=23.04.0"
+      },
+      {
+        "version": "0.4.0",
+        "url": "https://github.com/MemVerge/nf-float/releases/download/0.4.0/nf-float-0.4.0.zip",
+        "date": "2023-10-12T11:52:53.035719+08:00",
+        "sha512sum": "3cf30a66ffe2dcf283bf05ff5133288b6c7fd8dfa4ccbb42d74879a6ee3393850782ff933e56c986560aaa33e08c089422a11573e7825eb91fd6ae73d11908fc",
         "requires": ">=23.04.0"
       }
     ]
