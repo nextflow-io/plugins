@@ -1900,27 +1900,6 @@
         "requires": ">=22.10.6"
       },
       {
-        "version": "0.7.2",
-        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.7.2/nf-quilt-0.7.2.zip",
-        "date": "2023-10-16T20:50:00.965864+02:00",
-        "sha512sum": "7b389226e520bbf84a4ee631e916bfd4ef4e0a0d9b93095b7f16c0be2d77687ad5beb3e1f3bdfc4ee4fda0af3e1aa797067d6a2cfae27790b84323224f3e05f3",
-        "requires": ">=22.10.6"
-      },
-      {
-        "version": "0.7.3",
-        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.7.3/nf-quilt-0.7.3.zip",
-        "date": "2023-10-16T22:02:09.854057+02:00",
-        "sha512sum": "7e6c374f28cef600f415a54487b5637df531d2128623440d50bc1ce7d4035acc21f8852fe1cb06af97bda0b20cc3095e344e5b1fb84a620c9d257ac45747ccfc",
-        "requires": ">=22.10.6"
-      },
-      {
-        "version": "0.7.4",
-        "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.7.4/nf-quilt-0.7.4.zip",
-        "date": "2023-10-17T08:48:48.200128+02:00",
-        "sha512sum": "2b29f9ecb72abf6538d40ed913164d8f2900773a21eda846a5e8e1c1721b0655a386fd10025468a498b06c08eddb188bab5346167542a9740aeea3989d13f08d",
-        "requires": ">=22.10.6"
-      },
-      {
         "version": "0.7.5",
         "url": "https://github.com/quiltdata/nf-quilt/releases/download/0.7.5/nf-quilt-0.7.5.zip",
         "date": "2023-10-17T12:48:27.411345+02:00",
