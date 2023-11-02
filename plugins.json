@@ -1983,6 +1983,13 @@
         "date": "2023-10-02T10:28:45.260319+02:00",
         "sha512sum": "13613b1b5904ed490e9796e8eb9c26498b5ea9bf1b98dcf234215ca6dde19f3ff620b893dfe048b2d8d440450c5cb1c10badf889331c784aae209352f2446090",
         "requires": ">23.02.01-edge"
+      },
+      {
+        "version": "1.0.4",
+        "date": "2023-11-02T18:31:06.9930913+01:00",
+        "url": "https://github.com/CommonWorkflowScheduler/nf-cws/releases/download/1.0.4/nf-cws-1.0.4.zip",
+        "requires": ">23.02.01-edge",
+        "sha512sum": "92ee642152cec0c7c91039e8b173334b7bf6d44e44f9bef9259f8e499bc05f52157aa8b24392c54daaa71e408ae755e63b0dcf2f6a146e28b4ac9909c2547b40"
       }
     ]
   },
