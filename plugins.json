@@ -2176,6 +2176,13 @@
         "date": "2023-08-28T14:31:14.271701203-05:00",
         "sha512sum": "32e0d1a5d1acc50f89c1dc2c435c097960464f60e5f3bb6d55db8ed755766f13eeef53b744baa380587ffa7bcb3647eb824ea38eefaa054bc923b5d8ef9814f8",
         "requires": ">=23.07.0-edge"
+      },
+      {
+        "version": "1.1.1",
+        "url": "https://github.com/nextflow-io/nf-weblog/releases/download/1.1.1/nf-weblog-1.1.1.zip",
+        "date": "2023-11-08T17:08:06.172343146-06:00",
+        "sha512sum": "8c90b261882c33e80cf59388a2ef376822620fc5a3eda71b0d28215bc38c8ae7b8d669657d7c9cc13dbc0463c14783f56d3573face68053e7aae39edde628cf7",
+        "requires": ">=23.07.0-edge"
       }
     ]
   }
