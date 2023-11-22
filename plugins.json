@@ -2192,5 +2192,17 @@
         "requires": ">=23.07.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-dotenv",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "date": "2023-11-21T21:56:18.814126-08:00",
+        "url": "https://github.com/fulcrumgenomics/nf-dotenv/releases/download/1.0.0/nf-dotenv-1.0.0.zip",
+        "requires": ">=22.10.2",
+        "sha512sum": "7cae188cdf5f1d5ba0283e7e80a70a220e3716dba3ec1b22b6fbe35a28c589044d493020d88ae1e9a2a7b4894b291b20498dd46b7dcf9e05c2f04aa8bbf6085d"
+      }
+    ]
   }
 ]
