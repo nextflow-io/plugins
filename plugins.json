@@ -2281,5 +2281,17 @@
         "requires": ">=22.10.2"
       }
     ]
+  },
+  {
+    "id": "nf-apache-poi",
+    "releases":[
+      {
+          "version": "0.0.3",
+          "date": "2023-10-27T09:53:42.207843648Z",
+          "url": "https://github.com/jagedn/nf-apache-poi/releases/download/0.0.3/nf-apache-poi-0.0.3.zip",
+          "requires": ">=22.10.0",
+          "sha512sum": "f0730f089baae6a2023cecd684bba786707c1c1a8c20a56f0cd424e7c8d7de3ed5de3489f74275f442eca4fd2bb23cf4b79511cf54d6f9b5ac416a10c9c28993"
+      }
+    ]
   }
 ]
