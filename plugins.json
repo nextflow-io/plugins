@@ -2445,5 +2445,17 @@
         "requires": ">=23.07.0"
       }
     ]
+  },
+  {
+    "id": "yellowdog",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/yellowdog/nextflow-plugin-public/releases/download/1.0.0/yellowdog-1.0.0.zip",
+        "date": "2024-02-08T?14:36:00+00:00",
+        "sha512sum": "cbbc5e60c52d9123c7ce7fba0a91cd0663063c1bf68222f858a738bb51ba704c5e4ebc247eed53bfe2d32361c622ed9e474f300981183dda489978a8661b6515",
+        "requires": ">=23.10.0"
+      }
+    ]
   }
 ]
