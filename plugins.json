@@ -2511,6 +2511,13 @@
         "date": "2024-02-08T14:36:00+00:00",
         "sha512sum": "cbbc5e60c52d9123c7ce7fba0a91cd0663063c1bf68222f858a738bb51ba704c5e4ebc247eed53bfe2d32361c622ed9e474f300981183dda489978a8661b6515",
         "requires": ">=23.10.0"
+      },
+      {
+        "version": "1.0.1",
+        "url": "https://github.com/yellowdog/nextflow-plugin-public/releases/download/1.0.1/yellowdog-1.0.1.zip",
+        "date": "2024-03-18T14:39:00+00:00",
+        "sha512sum": "e1eb19b77e003cedd1e128d9352e001b009c14614c8216090f285b74dc4dabc56e80b7b519297e0da6776245b33b195e27deec5ffdbaac42db4d98b74bcb3e27",
+        "requires": ">=23.10.0"
       }
     ]
   },
