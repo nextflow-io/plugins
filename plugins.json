@@ -2544,5 +2544,24 @@
         "requires": ">=24.01.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-boost",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "date": "2024-03-23T03:45:12.600508887-05:00",
+        "url": "https://github.com/bentsherman/nf-boost/releases/download/0.1.0/nf-boost-0.1.0.zip",
+        "requires": ">=23.10.0",
+        "sha512sum": "e9da537ccd131e7841edbba7a869769ea90ec0ec6081679065b18d51e5a40874dfd747bbde6011a5f568722d947a6480177c8267cc0e84428314e92f88579503"
+      },
+      {
+        "version": "0.2.0",
+        "date": "2024-03-26T04:00:29.279943136-05:00",
+        "url": "https://github.com/bentsherman/nf-boost/releases/download/0.2.0/nf-boost-0.2.0.zip",
+        "requires": ">=23.10.0",
+        "sha512sum": "d41320026fd5b7f341962ba26c79951057d06e8138c366717dd0f95586c100516580432b65be0627ec4dfef686e7481bab196e6859a597e3f850b26876bf8bf2"
+      }      
+    ]
   }
 ]
