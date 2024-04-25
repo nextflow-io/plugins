@@ -2631,6 +2631,13 @@
         "date": "2024-04-13T03:09:20.50955719-05:00",
         "sha512sum": "8a38036072970c3e012a5e7de77f7078a634eb6676f7509c56629069323f938f9b5696d6158ff8e262956f6477810c6ab5321ddbb48ccb46fe3d394cc76b557b",
         "requires": ">=23.10.0"
+      },
+      {
+        "version": "0.3.2",
+        "date": "2024-04-19T15:25:52.653614353-05:00",
+        "url": "https://github.com/bentsherman/nf-boost/releases/download/0.3.2/nf-boost-0.3.2.zip",
+        "requires": ">=23.10.0",
+        "sha512sum": "f29cb221e1b2e4f0e9f12d7a06994f90c796a6e65a7ed9ac8bb49061374ccfe22703d3f0d48b84e345eb4acdfda7b5b66d79d95f2176cf37f05a199e8c73feac"
       }
     ]
   },
