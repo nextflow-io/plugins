@@ -2935,6 +2935,13 @@
         "date": "2024-07-02T17:45:09.687499422Z",
         "sha512sum": "2763d6689b501e8610bf6a1b926e0eded9ceab6698299b0be6ba23410d8eb2c6ab427055604572e2b68ab685f6b52fac019d664446e455bdcaebaf48eef95457",
         "requires": ">=23.10.0"
+      },
+      {
+      "version": "0.1.2",
+      "date": "2024-07-29T11:12:42.836372+02:00",
+      "url": "https://github.com/nextflow-io/nf-nomad/releases/download/0.1.2/nf-nomad-0.1.2.zip",
+      "requires": ">=24.04.0",
+      "sha512sum": "ab6f0c0cfd88a79190232862817e6c4fb9ecb8d15832d1018d81b5e51da310d7b862fc3656e68436937980a9217b6b5b6df1ecc42640af2e6caa4f13a97defb0"
       }
     ]
   }
