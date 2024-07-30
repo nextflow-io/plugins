@@ -2965,5 +2965,17 @@
         "requires": ">=24.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-parquet",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2024-07-30T21:37:57.234130293Z",
+        "url": "https://github.com/edn-es/nf-parquet/releases/download/0.0.1/nf-parquet-0.0.1.zip",
+        "requires": ">=24.04.2",
+        "sha512sum": "472d517a3cb569b55789cf8b1235aa2b64fd62baa250ae5638284352452706d57bfaabec2b62e3c533ded8070460d4621cec5576fa1a44d075a62f114490a0dc"
+      }
+    ]
   }
 ]
