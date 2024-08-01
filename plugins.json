@@ -2510,6 +2510,13 @@
         "date": "2024-07-03T03:23:57.304799682-05:00",
         "sha512sum": "55b2199760a5840d160158391576d0fa64afe00ee018e3af6cfdfcacdd27a79744cbc61c976fcc5c814b868f7060f9ff231afa71edad9db75dac03280ce1bcf9",
         "requires": ">=23.04.0"
+      },
+      {
+        "version": "1.2.4",
+        "url": "https://github.com/nextflow-io/nf-prov/releases/download/1.2.4/nf-prov-1.2.4.zip",
+        "date": "2024-07-25T23:31:17.992192735-05:00",
+        "sha512sum": "8de07846c938791eea22c46256c1b5e87f1ec33c0204baf5d14fb36e24dd5c389b85e9b57670bb799b032815e198c6ec26dfdcdd70e792503b69bd5400dbc8d2",
+        "requires": ">=23.04.0"
       }
     ]
   },
