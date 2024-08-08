@@ -2723,9 +2723,9 @@
         "requires": ">=22.10.0"
       },
       {
-      "version": "1.1.4",
+        "version": "1.1.4",
         "url": "https://github.com/nextflow-io/nf-validation/releases/download/1.1.4/nf-validation-1.1.4.zip",
-        "date": "2024-08-07T17:30:01.682432017+01:00",
+        "date": "2024-08-07T16:06:44.318431+01:00",
         "sha512sum": "4528eb0676b3132c688831e13859939d64ef685f09e53652e858892e14e38d541e895a1fd7a398ea88de3cdcc239dca3c8d0a6dbcd85889811d8e83286ebf9e6",
         "requires": ">=22.10.0"
       }
