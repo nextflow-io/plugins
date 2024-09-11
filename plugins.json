@@ -2824,6 +2824,13 @@
         "date": "2024-08-15T14:24:48.081118-07:00",
         "sha512sum": "b190fb1d3f4c4b8d59fdf9fd0938a4185e4ba79869e0dd0001a25c35f93b6fa7c92f650ee3e670a8b43bdfe0662b979cc4c9c9ecf3439c5ac1bffd8caba91d36",
         "requires": ">=23.04.0"
+      },
+      {
+        "version": "0.4.4",
+        "date": "2024-09-11T15:43:34.567847-07:00",
+        "url": "https://github.com/MemVerge/nf-float/releases/download/0.4.4/nf-float-0.4.4.zip",
+        "requires": ">=23.04.0",
+        "sha512sum": "29ab5cc167f2ac6f33e646e4caf9378bc2f3007d8c93aa4cdf549b8e05f02ec5999f0461fe866de9c3ca876cae101f5eb8a6d8c58a44ad61bd1ac7946001dc40"
       }
     ]
   },
