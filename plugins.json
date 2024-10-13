@@ -3222,5 +3222,17 @@
         "requires": ">=23.10.1"
       }
     ]
+  },
+  {
+    "id": "nf-snowflake",
+    "releases": [
+      {
+        "version": "0.6.0",
+        "url": "https://github.com/Snowflake-Labs/nf-snowflake/releases/download/0.6.0/nf-snowflake-0.6.0.zip",
+        "date": "2024-10-13T18:20:43+0000",
+        "sha512sum": "2dce8991450ec483c09c5121e27e15e23541d5c08d7edc4b504efe966556ffd0427f621864f33e8984bd788c29d1385c7921ea245ce4f81c753fe93c9954ccf9",
+        "requires": ">=24.01.0-edge"
+      }
+    ]
   }
 ]
