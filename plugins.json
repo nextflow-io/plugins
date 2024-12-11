@@ -3367,5 +3367,17 @@
         "requires": ">=24.01.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-parquet",
+    "releases": [
+      {
+        "version": "0.2.0",
+        "date": "2024-12-11T08:35:26.594226413+01:00",
+        "url": "https://github.com/nextflow-io/nf-parquet/releases/download/0.2.0/nf-parquet-0.2.0.zip",
+        "requires": ">=24.04.2",
+        "sha512sum": "8f90053467ce090b91162169d9d0649e38f479ca23b2649e2e084bc25d7c8812bf64b98983b712113cdfcf405f12944a9a1c6cf0ca5de75023bec402b8cee398"
+      }
+    ]
   }
 ]
