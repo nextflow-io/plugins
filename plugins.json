@@ -3353,6 +3353,20 @@
         "date": "2024-09-04T11:57:02.169+08:00",
         "sha512sum": "dad781e01ee2f5e71a53eb3c1b6ee38e1aece818861db3687e16a56a5148c7de4392360db7a03caf8775c1207e416f95eec0fd7f8e5665f52ef386bc20167bfb",
         "requires": ">=23.10.1"
+      },
+      {
+        "version": "1.0.1",
+        "url": "https://github.com/Tencent/nf-tencentcloud/releases/download/1.0.1/nf-tencentcloud-1.0.1.zip",
+        "date": "2024-12-04T17:27:01.858+08:00",
+        "sha512sum": "9984df9f6b76678b26df40229b37a3c2361b8e6bbfb207788c7e3eea19d4a04a2a60fee987e210734f364dcdd09de65d880d24604774d5004dbe46123c1eea80",
+        "requires": ">=22.10.7"
+      },
+      {
+        "version": "2.0.1",
+        "url": "https://github.com/Tencent/nf-tencentcloud/releases/download/2.0.1/nf-tencentcloud-2.0.1.zip",
+        "date": "2024-12-04T17:29:05.297+08:00",
+        "sha512sum": "c315c3b47e3945e9ce155418168fcde222a54f4b14bc768a6ee0bed513e015531369089f333cffbc7fc5a5a85a5316fb0b0e80abfdcd9f19435de660961dbc60",
+        "requires": ">=23.10.1"
       }
     ]
   },
