@@ -3280,6 +3280,13 @@
         "date": "2024-10-30T11:21:53.008264184+01:00",
         "sha512sum": "3977d51aa1a99ae597fe1aed67fa4cac57ee718121468a7a6920765fc8ea923479224285d77607f04610157d7cd7c430bd2a689f5923efdb9279c6668a44e715",
         "requires": ">=23.10.0"
+      },
+      {
+        "version": "2.2.1",
+        "date": "2024-12-03T13:04:06.285061078+01:00",
+        "url": "https://github.com/nextflow-io/nf-schema/releases/download/2.2.1/nf-schema-2.2.1.zip",
+        "requires": ">=23.10.0",
+        "sha512sum": "d0d57f9cbb55288db1f1a26c917751debd875ff7f91dadf002fc881da505c6a43ef0c1fd4062aae6221af16232a98ddaa7a1ab39dd835e68426bccdfdee1ae46"
       }
     ]
   },
@@ -3320,6 +3327,13 @@
         "date": "2024-09-20T12:00:02.424461498Z",
         "sha512sum": "7759465a3473e551839e39ba295bb94432429a9c4dfafdde7fd5b4f768b4f29073afedf07afecef36771f6ece8738830df6d300dbb82f58feb99de20d2f859db",
         "requires": ">=24.04.0"
+      },
+      {
+        "version": "0.3.1",
+        "date": "2024-12-08T19:12:13.947884787Z",
+        "url": "https://github.com/nextflow-io/nf-nomad/releases/download/0.3.1/nf-nomad-0.3.1.zip",
+        "requires": ">=24.04.0",
+        "sha512sum": "c9a57b1d3c9fa8a917b3c3ee93916e28ca3586fd7d40fa8136b08da25a5da7431892cb528f77eb474680452bb0c83efcb88970074bee219691c0c142b6c808e0"
       }
     ]
   },
@@ -3365,6 +3379,18 @@
         "date": "2024-10-13T18:20:43+0000",
         "sha512sum": "2dce8991450ec483c09c5121e27e15e23541d5c08d7edc4b504efe966556ffd0427f621864f33e8984bd788c29d1385c7921ea245ce4f81c753fe93c9954ccf9",
         "requires": ">=24.01.0-edge"
+      }
+    ]
+  },
+  {
+    "id": "nf-parquet",
+    "releases": [
+      {
+        "version": "0.2.0",
+        "date": "2024-12-11T08:35:26.594226413+01:00",
+        "url": "https://github.com/nextflow-io/nf-parquet/releases/download/0.2.0/nf-parquet-0.2.0.zip",
+        "requires": ">=24.04.2",
+        "sha512sum": "8f90053467ce090b91162169d9d0649e38f479ca23b2649e2e084bc25d7c8812bf64b98983b712113cdfcf405f12944a9a1c6cf0ca5de75023bec402b8cee398"
       }
     ]
   }
