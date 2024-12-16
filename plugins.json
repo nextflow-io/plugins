@@ -984,6 +984,13 @@
         "date": "2024-12-03T10:38:21.719176Z",
         "sha512sum": "59a7d1ee66cb21b633605212b4c451e64be2f96540f427590f661e68f2c1623db536ac22fe8839cc4f69183d2ab2cf3841bfc275008516f9c940e0bc32a32c23",
         "requires": ">=24.04.4"
+      },
+      {
+        "version": "1.15.3",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.15.3/nf-google-1.15.3.zip",
+        "date": "2024-12-16T17:39:11.439759+01:00",
+        "sha512sum": "8f592741e4e8ea1688e0efb097a70f9358d21b6ee8ca0d3109c5b2604755286cab54bf100e176b2d69eafa368a0b0d4dbcca9dcb5cd4e5f9f44eb33f204cc75a",
+        "requires": ">=24.04.4"
       }
     ]
   },
@@ -3283,10 +3290,10 @@
       },
       {
         "version": "2.2.1",
-        "date": "2024-12-03T13:04:06.285061078+01:00",
         "url": "https://github.com/nextflow-io/nf-schema/releases/download/2.2.1/nf-schema-2.2.1.zip",
-        "requires": ">=23.10.0",
-        "sha512sum": "d0d57f9cbb55288db1f1a26c917751debd875ff7f91dadf002fc881da505c6a43ef0c1fd4062aae6221af16232a98ddaa7a1ab39dd835e68426bccdfdee1ae46"
+        "date": "2024-12-03T13:04:06.285061078+01:00",
+        "sha512sum": "d0d57f9cbb55288db1f1a26c917751debd875ff7f91dadf002fc881da505c6a43ef0c1fd4062aae6221af16232a98ddaa7a1ab39dd835e68426bccdfdee1ae46",
+        "requires": ">=23.10.0"
       }
     ]
   },
@@ -3330,10 +3337,10 @@
       },
       {
         "version": "0.3.1",
-        "date": "2024-12-08T19:12:13.947884787Z",
         "url": "https://github.com/nextflow-io/nf-nomad/releases/download/0.3.1/nf-nomad-0.3.1.zip",
-        "requires": ">=24.04.0",
-        "sha512sum": "c9a57b1d3c9fa8a917b3c3ee93916e28ca3586fd7d40fa8136b08da25a5da7431892cb528f77eb474680452bb0c83efcb88970074bee219691c0c142b6c808e0"
+        "date": "2024-12-08T19:12:13.947884787Z",
+        "sha512sum": "c9a57b1d3c9fa8a917b3c3ee93916e28ca3586fd7d40fa8136b08da25a5da7431892cb528f77eb474680452bb0c83efcb88970074bee219691c0c142b6c808e0",
+        "requires": ">=24.04.0"
       }
     ]
   },
@@ -3387,10 +3394,10 @@
     "releases": [
       {
         "version": "0.2.0",
-        "date": "2024-12-11T08:35:26.594226413+01:00",
         "url": "https://github.com/nextflow-io/nf-parquet/releases/download/0.2.0/nf-parquet-0.2.0.zip",
-        "requires": ">=24.04.2",
-        "sha512sum": "8f90053467ce090b91162169d9d0649e38f479ca23b2649e2e084bc25d7c8812bf64b98983b712113cdfcf405f12944a9a1c6cf0ca5de75023bec402b8cee398"
+        "date": "2024-12-11T08:35:26.594226413+01:00",
+        "sha512sum": "8f90053467ce090b91162169d9d0649e38f479ca23b2649e2e084bc25d7c8812bf64b98983b712113cdfcf405f12944a9a1c6cf0ca5de75023bec402b8cee398",
+        "requires": ">=24.04.2"
       }
     ]
   }
