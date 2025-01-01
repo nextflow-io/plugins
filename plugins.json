@@ -3407,5 +3407,17 @@
         "requires": ">=24.04.2"
       }
     ]
+  },
+  {
+    "id": "nf-pgcache",
+    "releases": [
+      {
+        "version": "0.0.1-rc3",
+        "date": "2025-01-01T10:09:27.529415387Z",
+        "url": "https://github.com/edn-es/nf-pgcache/releases/download/0.0.1-rc3/nf-pgcache-0.0.1-rc3.zip",
+        "requires": ">=24.10.0",
+        "sha512sum": "cb8d29a5bf8215471cf71767eb2356177f7d5517e45d36afbd7d8ab25df629429a91d5588ff37723e2ac758263fb7730921cc977894ff200f0ea4aada02c60bf"
+      }
+    ]
   }
 ]
