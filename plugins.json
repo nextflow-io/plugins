@@ -3145,10 +3145,10 @@
         "requires": ">=23.07.0"
       },
       {
-        "version": "1.0.0-beta.1",
-        "url": "https://github.com/nextflow-io/nf-co2footprint/releases/download/1.0.0-beta.1/nf-co2footprint-1.0.0-beta.1.zip",
-        "date": "2025-01-09T15:15:35+01:00",
-        "sha512sum": "71485eb7236b07dee3c6498cf405d89c43ab99d3abb37d4b3432d7fbf29691024dce4fe50968ab80dc4ccb4e42e58a485eca13afad938538ab0524b25bdc58fd",
+        "version": "1.0.0-beta1",
+        "url": "https://github.com/nextflow-io/nf-co2footprint/releases/download/1.0.0-beta1/nf-co2footprint-1.0.0-beta1.zip",
+        "date": "2025-01-23T10:47:07+01:00",
+        "sha512sum": "6db2a5cd20549e82f4be8e216338bc60d362dcb02fde152532b774938850d582b24901405523264469bd4920e24e7937eff53de5b97a0c3731509397df9729bf",
         "requires": ">=23.07.0"
       }
     ]
