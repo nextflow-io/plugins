@@ -3487,6 +3487,13 @@
         "date": "2025-01-01T10:09:27.529415387Z",
         "sha512sum": "cb8d29a5bf8215471cf71767eb2356177f7d5517e45d36afbd7d8ab25df629429a91d5588ff37723e2ac758263fb7730921cc977894ff200f0ea4aada02c60bf",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "1.0.0",
+        "date": "2025-01-28T11:09:03.124062508Z",
+        "url": "https://github.com/edn-es/nf-pgcache/releases/download/1.0.0/nf-pgcache-1.0.0.zip",
+        "requires": ">=24.10.0",
+        "sha512sum": "c604af767296d7d084e99c3ece693659d8a0c42d443f6001fe12af67dc9fbb4ba776794b3b4955663096f2254c90df413e156b8f38ab96b1466e3f5b9a69a3ae"
       }
     ]
   }
