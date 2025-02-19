@@ -3229,6 +3229,13 @@
         "date": "2024-01-22T08:37:59.686396-06:00",
         "sha512sum": "70d021683b867a198d355ec19ecb07399b85d58fe0996d66092fd48ab75c14c8cfca9ef287a6c7dc4dc57124369046200ea8b20ff5e4d086268203a4db998c05",
         "requires": ">=22.10.0"
+      },
+      {
+        "version": "0.3.0",
+        "date": "2025-02-17T11:03:52.286279104-06:00",
+        "url": "https://github.com/phac-nml/nf-iridanext/releases/download/0.3.0/nf-iridanext-0.3.0.zip",
+        "requires": ">=22.10.0",
+        "sha512sum": "d65241b6372127fde995091952293b81efcf2bd06f76cd5c3a6bed0010a210ec50d5f9186351a8ffc76ed3a13dc82601a6d6fbef008e02a83c99cd70e65adc53"
       }
     ]
   },
