@@ -1026,6 +1026,13 @@
         "date": "2025-02-12T15:07:45.39142+01:00",
         "sha512sum": "aa91817aee7205971b4e61b2c18a32371f551ffe814127ad9ccd01b82b76cd85b16fa492fa1d82802f6e9d6e6165fd16119b6e08fd8815ba39b7caefad185cbf",
         "requires": ">=25.01.0-edge"
+      },
+      {
+        "version": "1.15.4",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.15.4/nf-google-1.15.4.zip",
+        "date": "2025-03-04T20:36:21.256033+01:00",
+        "sha512sum": "69513dcd69130da316344cde810daaf37ca95a5b9714a1a7795bf7f632ffd0b97d6c456db219e37e95f4a240fb735b6bf5135b91e937658a953df4a437d87234",
+        "requires": ">=24.04.5"
       }
     ]
   },
@@ -3232,10 +3239,10 @@
       },
       {
         "version": "0.3.0",
-        "date": "2025-02-17T11:03:52.286279104-06:00",
         "url": "https://github.com/phac-nml/nf-iridanext/releases/download/0.3.0/nf-iridanext-0.3.0.zip",
-        "requires": ">=22.10.0",
-        "sha512sum": "d65241b6372127fde995091952293b81efcf2bd06f76cd5c3a6bed0010a210ec50d5f9186351a8ffc76ed3a13dc82601a6d6fbef008e02a83c99cd70e65adc53"
+        "date": "2025-02-17T11:03:52.286279104-06:00",
+        "sha512sum": "d65241b6372127fde995091952293b81efcf2bd06f76cd5c3a6bed0010a210ec50d5f9186351a8ffc76ed3a13dc82601a6d6fbef008e02a83c99cd70e65adc53",
+        "requires": ">=22.10.0"
       }
     ]
   },
