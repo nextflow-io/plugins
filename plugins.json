@@ -3566,8 +3566,8 @@
       {
         "version": "0.0.1",
         "url": "https://github.com/bishwaG/nf-nextpie/releases/download/0.0.1/nf-nextpie-0.0.1.zip",
-        "date": "2025-03-16T09:56:17.574802402+02:00",
-        "sha512sum": "58c315424ce76a8e5a1a68814f1c84d2c525792a3e049b97ad32de439bc0c68053b16f0ee137703b5e8bdb719177d2bb1dd457e5260e21930c256ea233d7ae5d",
+        "date": "2025-03-16T20:03:43.908507938+02:00",
+        "sha512sum": "d0c66fa9c6174946976746e425527e1525d67f4e56629ca0102a57eba45a3683e5c7ff491d10624a89d8a97257936efe5502fb19ecb8377dd4ad2f3895844b43",
         "requires": ">=24.10.4"
       }
     ]
