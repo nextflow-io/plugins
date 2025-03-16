@@ -3559,5 +3559,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-nextpie",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "url": "https://github.com/bishwaG/nf-nextpie/releases/download/0.0.1/nf-nextpie-0.0.1.zip",
+        "date": "2025-03-16T09:56:17.574802402+02:00",
+        "sha512sum": "58c315424ce76a8e5a1a68814f1c84d2c525792a3e049b97ad32de439bc0c68053b16f0ee137703b5e8bdb719177d2bb1dd457e5260e21930c256ea233d7ae5d",
+        "requires": ">=24.10.4"
+      }
+    ]
   }
 ]
