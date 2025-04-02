@@ -3608,5 +3608,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-dataflow",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2025-04-02T12:31:22.502790223+02:00",
+        "url": "https://github.com/nextflow-io/nf-dataflow/releases/download/0.0.1/nf-dataflow-0.0.1.zip",
+        "requires": ">=24.0.0",
+        "sha512sum": "bd1a333fdacf839ad91aa22d4fcb015e99d99f9460bdfe2f37697ad4d18ca66fce9aefd86bb59dea14fc08a80adcf48b7305c68bc071bdbb7ef6e50e60469ab9"
+      }
+    ]
   }
 ]
