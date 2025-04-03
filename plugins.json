@@ -3614,10 +3614,10 @@
     "releases": [
       {
         "version": "0.0.1",
-        "date": "2025-04-02T12:31:22.502790223+02:00",
+        "date": "2025-04-03T16:16:33.244124499+02:00",
         "url": "https://github.com/Lehmann-Fabian/nf-dataflow/releases/download/0.0.1/nf-dataflow-0.0.1.zip",
         "requires": ">=24.04.0",
-        "sha512sum": "bd1a333fdacf839ad91aa22d4fcb015e99d99f9460bdfe2f37697ad4d18ca66fce9aefd86bb59dea14fc08a80adcf48b7305c68bc071bdbb7ef6e50e60469ab9"
+        "sha512sum": "28cfbd8243dcd0a937a1f5cb8e5bf8b8e9fc08fb3a6fd0d449306c0101c94b94ea8bcb37907404c87485af6bf27882f46bc0265dfa79cc2bc1cc8944abdee2a3"
       }
     ]
   }
