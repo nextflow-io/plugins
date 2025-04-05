@@ -671,6 +671,13 @@
         "date": "2025-03-18T08:33:22.169907+01:00",
         "sha512sum": "9dd8e310d9cc82006a579e012aac2557daeb8cb1de58eb9ce101f5298df484a6558d41a206bf5ae5e9c4ad898120049ed66e036c8ed966fc6839285708eed896",
         "requires": ">=25.02.0-edge"
+      },
+      {
+        "version": "1.2.1",
+        "url": "https://github.com/nextflow-io/nf-console/releases/download/1.2.1/nf-console-1.2.1.zip",
+        "date": "2025-04-05T17:38:41.907245+02:00",
+        "sha512sum": "5068e61e49af8f2c48f83fcb7ef581cc461dc1621a80a54b249c4934fe55ca32ab4ee1559d18d9b62bbf3190e1ed94342ae3110413d50bcdcc92c00ca9c378e1",
+        "requires": ">=25.02.2-edge"
       }
     ]
   },
@@ -1372,6 +1379,13 @@
         "date": "2025-03-18T08:33:49.139292+01:00",
         "sha512sum": "84578756a001ce19d8d2513d150da3caa17da7f3d77e936102dfee58cc4d3d0bfa3c9e4870338b5d441b58c0afc6e81bb5270b2bcf36101da3802004768e81bb",
         "requires": ">=25.02.0-edge"
+      },
+      {
+        "version": "1.11.1",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.11.1/nf-tower-1.11.1.zip",
+        "date": "2025-04-05T17:43:44.138563+02:00",
+        "sha512sum": "6a969ff7458c84388f2928ac253b032b1210105b6456b4af6bb8333bc7e8f7131e4cabcd76d0fff449826b3b312fd1d97c931511dfc52ae0ee633ee45266b640",
+        "requires": ">=25.02.2-edge"
       }
     ]
   },
@@ -2691,6 +2705,13 @@
         "date": "2025-03-18T08:33:58.861433+01:00",
         "sha512sum": "58f6a69b2a8e94b27074b2ecc46648d143edb2d666266233903b0883e11a59d3c352160fde22a1f7a55bef1be841cb2ec982e7cb615ad28428dafc7273a7a045",
         "requires": ">=25.02.0-edge"
+      },
+      {
+        "version": "1.11.1",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.11.1/nf-wave-1.11.1.zip",
+        "date": "2025-04-05T17:43:52.263805+02:00",
+        "sha512sum": "4808b64bbe37da6433f749a65769804f1f538cc4f82e109c58e550f745594a71194d11bc1267bfabe4cb02ddf36b584712cd784d87cbc584604f5050e30eef1c",
+        "requires": ">=25.02.2-edge"
       }
     ]
   },
@@ -3486,10 +3507,10 @@
       },
       {
         "version": "2.4.0",
-        "date": "2025-04-03T15:11:57.654089844+02:00",
         "url": "https://github.com/nextflow-io/nf-schema/releases/download/2.4.0/nf-schema-2.4.0.zip",
-        "requires": ">=24.10.0",
-        "sha512sum": "e2a88e1021786101af2de8e1725b5f4486abb49905ec870552e7a0ac568ba292dfcedbb9175c1bf512af097dabb7f64bb1efefbcdff9681f6f18167785b7805d"
+        "date": "2025-04-03T15:11:57.654089844+02:00",
+        "sha512sum": "e2a88e1021786101af2de8e1725b5f4486abb49905ec870552e7a0ac568ba292dfcedbb9175c1bf512af097dabb7f64bb1efefbcdff9681f6f18167785b7805d",
+        "requires": ">=24.10.0"
       }
     ]
   },
