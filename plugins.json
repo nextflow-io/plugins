@@ -3614,7 +3614,7 @@
     "releases": [
       {
         "version": "0.0.1",
-        "date": "2025-04-11T11:40:10.306817589+02:00",
+        "date": "2025-04-11T11:55:44.50351797+02:00",
         "url": "https://github.com/Lehmann-Fabian/nf-datatrail/releases/download/0.0.1/nf-datatrail-0.0.1.zip",
         "requires": ">=23.10.0",
         "sha512sum": "5d2aa1553c114bb4cbc2a45b8096b76e809059e1c2a550fe3288600a2459b3b5b3e088f182464628bfe2b44322f30a6b0a50dd5c6c8b5868d020748d7f14eba2"
