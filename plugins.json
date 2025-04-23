@@ -561,6 +561,13 @@
         "date": "2025-04-23T12:44:27.843277+02:00",
         "sha512sum": "c8b955284ee1cc03efbcd00246dc46ef442d552d101328be1b6a00ee11a782101c99d98343d5928c79171f55037a8b0c1f23f315238eaf143888469d0878f19e",
         "requires": ">=25.03.0-edge"
+      },
+      {
+        "version": "2.9.3",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/2.9.3/nf-amazon-2.9.3.zip",
+        "date": "2025-04-23T19:01:05.133836+02:00",
+        "sha512sum": "7969d1cba653de4b094b5e2dd436cb35ceb16cbe47e6accfcce52437c664c3c9769f329f7f408cb64401c6e2f72b8912fddb19946ec180abbc5fcdf5bed39d3d",
+        "requires": ">=24.10.6"
       }
     ]
   },
@@ -2747,6 +2754,13 @@
         "date": "2025-04-23T12:47:53.029531+02:00",
         "sha512sum": "8f5ea6d47e3de6fbafe687f9208b53db4ec5cbe11ef6bd5b0a40220d7d61d93d2ebf18ce246a86ab26e7ecb07fa96dfa032e9beb7719bc080bdc984d8c91ee69",
         "requires": ">=25.03.0-edge"
+      },
+      {
+        "version": "1.7.5",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.7.5/nf-wave-1.7.5.zip",
+        "date": "2025-04-23T19:01:40.134549+02:00",
+        "sha512sum": "9d63eb3acee09939b36ae9914f7dbc23c21e25940883780c79295fc2a108b6d1adef95c7f12e53d604003dfd69c78e1598e5dace9548b93a4214d8fef70270b5",
+        "requires": ">=24.10.6"
       }
     ]
   },
@@ -3008,10 +3022,10 @@
       },
       {
         "version": "1.0.6",
-        "date": "2025-04-23T11:47:39.571179275+02:00",
         "url": "https://github.com/CommonWorkflowScheduler/nf-cws/releases/download/1.0.6/nf-cws-1.0.6.zip",
-        "requires": ">=23.05.0-edge",
-        "sha512sum": "5ba81d0a69be4e348d6e133e97a21a34787071db3266bd26aa0ee6283a8fedda43fecc01853d6097ec43caa6db91c1eb2f573e9711e26094fe0802384843c643"
+        "date": "2025-04-23T11:47:39.571179275+02:00",
+        "sha512sum": "5ba81d0a69be4e348d6e133e97a21a34787071db3266bd26aa0ee6283a8fedda43fecc01853d6097ec43caa6db91c1eb2f573e9711e26094fe0802384843c643",
+        "requires": ">=23.05.0-edge"
       }
     ]
   },
