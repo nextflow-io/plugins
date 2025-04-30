@@ -24,6 +24,6 @@ which is organised with the following structure:
 ```
 
 The top-most JSON array lists all available plugins. The `releases` array
-lists all the available versions for the correspinding plugin.
+lists all the available versions for the corresponding plugin.
 
 Learn more about Nextflow plugins in the [Nextflow documentation](https://www.nextflow.io/docs/latest/plugins.html).

@@ -3723,5 +3723,17 @@
         "requires": ">=25.03.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-lamin",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "url": "https://github.com/laminlabs/nf-lamin/releases/download/0.0.1/nf-lamin-0.0.1.zip",
+        "date": "2025-04-24T12:59:57.189944Z",
+        "sha512sum": "ebb23e601b5507e2df41d523ae75fd8b88ead44a81192a04fb78b13e398eb0e3fe5ea812d4f79beeba36230e0c8e5d2cbdcdeaee99df23f359b7903a529534ce",
+        "requires": ">=24.10.4"
+      }
+    ]
   }
 ]
