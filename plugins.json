@@ -2214,6 +2214,13 @@
         "date": "2022-08-30T21:39:58.340787+02:00",
         "sha512sum": "a8e5d71e90b61b94156245da0bab8ffd09e67522c8bfbe901d14fe03437a1943cfb8a22ca25c0acdba65818cc5047feb2df8dea200e4665af02aab20bd5786d5",
         "requires": ">=22.08.1-edge"
+      },
+      {
+        "version": "0.6.0",
+        "url": "https://github.com/nextflow-io/nf-sqldb/releases/download/0.6.0/nf-sqldb-0.6.0.zip",
+        "date": "2025-05-23T14:24:49.611519+02:00",
+        "sha512sum": "bcd6131af729fcf77da05d064d612d615026fdf4d893c116bff4434ee7611c533ac0ee91eb315862975d751578a62033e3c84ed3c805e2e84f5bf40071195016",
+        "requires": ">=25.04.0"
       }
     ]
   },
@@ -3057,10 +3064,10 @@
       },
       {
         "version": "2.0.0",
-        "date": "2025-05-16T21:11:05.374888809+02:00",
         "url": "https://github.com/CommonWorkflowScheduler/nf-cws/releases/download/2.0.0/nf-cws-2.0.0.zip",
-        "requires": ">=24.04.0",
-        "sha512sum": "cdf832090c9449a260578d068bd1b17d86e80b12f066953f7af49268d364b58f5cb88742cb722e403acb7f61f991aeff90f12a021214dd503322757686b20438"
+        "date": "2025-05-16T21:11:05.374888809+02:00",
+        "sha512sum": "cdf832090c9449a260578d068bd1b17d86e80b12f066953f7af49268d364b58f5cb88742cb722e403acb7f61f991aeff90f12a021214dd503322757686b20438",
+        "requires": ">=24.04.0"
       }
     ]
   },
@@ -3783,10 +3790,10 @@
     "releases": [
       {
         "version": "1.0.0",
-        "date": "2025-05-17T09:00:00.130986Z",
         "url": "https://github.com/fulcrumgenomics/nf-fgbio/releases/download/1.0.0/nf-fgbio-1.0.0.zip",
-        "requires": ">=22.10.2",
-        "sha512sum": "a5987c72f52831e0fb0b4cf5ba8d7a3376ce983111be55b393e6e49aa5c65fa000186ffbfe35fd48393eb47a55bd57b5f0a7fdb1e0b7403fcb86be1f99aa6f7c"
+        "date": "2025-05-17T09:00:00.130986Z",
+        "sha512sum": "a5987c72f52831e0fb0b4cf5ba8d7a3376ce983111be55b393e6e49aa5c65fa000186ffbfe35fd48393eb47a55bd57b5f0a7fdb1e0b7403fcb86be1f99aa6f7c",
+        "requires": ">=22.10.2"
       }
     ]
   }
