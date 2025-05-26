@@ -3796,5 +3796,17 @@
         "requires": ">=22.10.2"
       }
     ]
+  },  
+  {
+    "id": "nf-cachebrowser", 
+    "releases": [      
+      {
+        "version": "0.0.1-rc1",
+        "date": "2025-05-25T09:02:02.88527643Z",
+        "url": "https://github.com/incsteps/nf-cachebrowser/releases/download/0.0.1-rc1/nf-cachebrowser-0.0.1-rc1.zip",
+        "requires": ">=24.12.0-edge",
+        "sha512sum": "0f0a2ccd3d8b80cc9b01e7c333ea9de55496b542840b9f47a04992c4c65c2eb7065b5080a9f4a789a11997e7f20c1bcc204d56a5acab5e5e10f67dbd3e9e31d8"
+      }
+    ]
   }
 ]
