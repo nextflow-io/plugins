@@ -3815,5 +3815,17 @@
         "sha512sum": "0f0a2ccd3d8b80cc9b01e7c333ea9de55496b542840b9f47a04992c4c65c2eb7065b5080a9f4a789a11997e7f20c1bcc204d56a5acab5e5e10f67dbd3e9e31d8"
       }
     ]
+  },
+    {
+    "id": "nf-nextpie",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "url": "https://github.com/bishwaG/nf-nextpie/releases/download/0.0.1/nf-nextpie-0.0.1.zip",
+        "date": "2025-03-16T20:03:43.908507938+02:00",
+        "sha512sum": "d0c66fa9c6174946976746e425527e1525d67f4e56629ca0102a57eba45a3683e5c7ff491d10624a89d8a97257936efe5502fb19ecb8377dd4ad2f3895844b43",
+        "requires": ">=24.10.4"
+      }
+    ]
   }
 ]
