@@ -2221,6 +2221,13 @@
         "date": "2025-05-23T14:24:49.611519+02:00",
         "sha512sum": "bcd6131af729fcf77da05d064d612d615026fdf4d893c116bff4434ee7611c533ac0ee91eb315862975d751578a62033e3c84ed3c805e2e84f5bf40071195016",
         "requires": ">=25.04.0"
+      },
+      {
+        "version": "0.7.0",
+        "url": "https://github.com/nextflow-io/nf-sqldb/releases/download/0.7.0/nf-sqldb-0.7.0.zip",
+        "date": "2025-05-28T18:11:00.203177+02:00",
+        "sha512sum": "86b833dbba9ed17253d3071e54c86256a6c71fad52245e7ab57d9bbb4081e9d2f39980642316fb68e5bd0202c9a79e6497fa9f21992f34ef5f334fda64a5de64",
+        "requires": ">=25.04.0"
       }
     ]
   },
@@ -3275,10 +3282,10 @@
       },
       {
         "version": "0.4.7",
-        "date": "2025-05-24T21:47:17.382873+12:00",
         "url": "https://github.com/MemVerge/nf-float/releases/download/0.4.7/nf-float-0.4.7.zip",
-        "requires": ">=23.04.0",
-        "sha512sum": "35f07d382fbd78eb5500e93f496bd47590e9cf68591905b79cb16434913f59b4c0c8bc72b5f3e0fe65f52c68002a74a609f963fc3bf8cdc7d882b443e8f94d3d"
+        "date": "2025-05-24T21:47:17.382873+12:00",
+        "sha512sum": "35f07d382fbd78eb5500e93f496bd47590e9cf68591905b79cb16434913f59b4c0c8bc72b5f3e0fe65f52c68002a74a609f963fc3bf8cdc7d882b443e8f94d3d",
+        "requires": ">=23.04.0"
       }
     ]
   },
@@ -3803,20 +3810,20 @@
         "requires": ">=22.10.2"
       }
     ]
-  },  
+  },
   {
-    "id": "nf-cachebrowser", 
-    "releases": [      
+    "id": "nf-cachebrowser",
+    "releases": [
       {
         "version": "0.0.1-rc1",
-        "date": "2025-05-25T09:02:02.88527643Z",
         "url": "https://github.com/incsteps/nf-cachebrowser/releases/download/0.0.1-rc1/nf-cachebrowser-0.0.1-rc1.zip",
-        "requires": ">=24.12.0-edge",
-        "sha512sum": "0f0a2ccd3d8b80cc9b01e7c333ea9de55496b542840b9f47a04992c4c65c2eb7065b5080a9f4a789a11997e7f20c1bcc204d56a5acab5e5e10f67dbd3e9e31d8"
+        "date": "2025-05-25T09:02:02.88527643Z",
+        "sha512sum": "0f0a2ccd3d8b80cc9b01e7c333ea9de55496b542840b9f47a04992c4c65c2eb7065b5080a9f4a789a11997e7f20c1bcc204d56a5acab5e5e10f67dbd3e9e31d8",
+        "requires": ">=24.12.0-edge"
       }
     ]
   },
-    {
+  {
     "id": "nf-nextpie",
     "releases": [
       {
