@@ -1096,6 +1096,13 @@
         "date": "2025-05-08T21:55:08.662564+02:00",
         "sha512sum": "57cef4f4fa7f309a5482dd0a84e1466f0d318686f18f0a0f69afbf6e0739fd67309d9106b0c67b4d047ecf00da9dd11c93e3fa27ae3c1143eef4f15a6294c4eb",
         "requires": ">=25.03.0-edge"
+      },
+      {
+        "version": "1.22.0",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.22.0/nf-google-1.22.0.zip",
+        "date": "2025-06-02T21:45:16.534587+02:00",
+        "sha512sum": "7ddd3dff48051a82e02ff9680d669a151bbe5908d387eaec3a77e21650f3e7ce568c88cc0280dd04b4782388d8872530dce7d52817d01cc5ab23fcba1ee59d83",
+        "requires": ">=25.05.0-edge"
       }
     ]
   },
@@ -1428,6 +1435,13 @@
         "date": "2025-04-08T08:07:47.628252-04:00",
         "sha512sum": "9c3fb4b7bd4f97b104b379f3053568f1ab9c6dddf67b4f7ce5492ec6a2d934276d05a3bf16b2568fa94ca3d0a8f1dac9752772cd82ec5f377609eb36f62788f2",
         "requires": ">=25.02.2-edge"
+      },
+      {
+        "version": "1.12.0",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.12.0/nf-tower-1.12.0.zip",
+        "date": "2025-06-02T21:44:59.590561+02:00",
+        "sha512sum": "0670a0253c9fe5077636febca1aa0adf1e4162830833094775c5cefd2a5cbf89dab36eff7bce68ee361f20fcae98acc367e458b0e578d672e3cdfc2915b73502",
+        "requires": ">=25.05.0-edge"
       }
     ]
   },
@@ -2080,6 +2094,13 @@
         "date": "2025-05-08T21:54:56.227445+02:00",
         "sha512sum": "482da8399a47df55106c50bce42da4365517cd51d412cab621b6102d4266423ff8ad105354eeeeddcae5d5caac050e9d8c36d78f0fff30066bc3d359734dbdc3",
         "requires": ">=25.01.0-edge"
+      },
+      {
+        "version": "1.17.0",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.17.0/nf-azure-1.17.0.zip",
+        "date": "2025-06-02T21:45:31.230836+02:00",
+        "sha512sum": "566ee951ea9484f4ae6f703a3aaa7a38ee7c8f915e9ffbeeec45021afb82a4d6e5bc35f9005314c7bcb477e227e52a1957448b40db7ef77e71f6c30c031856a3",
+        "requires": ">=25.05.0-edge"
       }
     ]
   },
@@ -2803,6 +2824,13 @@
         "date": "2025-05-12T10:19:03.228852+02:00",
         "sha512sum": "fa37bc457142f1a1c428a999b291471ca141ce84bb0a20e9e6afc257debf38566bcdd3459a1ff66c96099a619830e0d8c50f0d2cdd3d5376b6f09dbd87d2cdeb",
         "requires": ">=25.03.0-edge"
+      },
+      {
+        "version": "1.13.0",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.13.0/nf-wave-1.13.0.zip",
+        "date": "2025-06-02T21:44:49.013866+02:00",
+        "sha512sum": "b245627b552e5aaa07e692fa1f6fa0394959bc9e10a5627f779ca02fa7e18d96d69109e875bc2a6aab8d0c95eff7a23ef6644b6443e2c27ddae133f26ff7ce0b",
+        "requires": ">=25.05.0-edge"
       }
     ]
   },
@@ -3078,10 +3106,10 @@
       },
       {
         "version": "2.0.1",
-        "date": "2025-05-28T22:08:56.241806203+02:00",
         "url": "https://github.com/CommonWorkflowScheduler/nf-cws/releases/download/2.0.1/nf-cws-2.0.1.zip",
-        "requires": ">=24.04.0",
-        "sha512sum": "1bf673745b20622df339ef02a93254234d58f459dd041d951d8ea311edeb44891f132cde575d84504a4fe8909a259c4aed5a4204441235456ac9fcb7037a5ffb"
+        "date": "2025-05-28T22:08:56.241806203+02:00",
+        "sha512sum": "1bf673745b20622df339ef02a93254234d58f459dd041d951d8ea311edeb44891f132cde575d84504a4fe8909a259c4aed5a4204441235456ac9fcb7037a5ffb",
+        "requires": ">=24.04.0"
       }
     ]
   },
@@ -3791,6 +3819,13 @@
         "date": "2025-04-23T12:48:31.189944+02:00",
         "sha512sum": "e451feff545802998508728d4f980a9c4b5a5c37c499eb6a8dee9f4e38fee322be13c5989f0268c18b019bda73acd70f4a4745f74e3995e9157d5925f32cfccd",
         "requires": ">=25.03.0-edge"
+      },
+      {
+        "version": "1.1.0",
+        "url": "https://github.com/nextflow-io/nf-k8s/releases/download/1.1.0/nf-k8s-1.1.0.zip",
+        "date": "2025-06-02T21:45:07.412574+02:00",
+        "sha512sum": "72ad6f0ffc740ccc650dc094e375b8562f819708c37689736ce9384616939acf546caf7debcb9f5502a95e34a143fd4b5a563cdfc1fd092a4b584792dcd154ec",
+        "requires": ">=25.05.0-edge"
       }
     ]
   },
