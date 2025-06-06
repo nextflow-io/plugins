@@ -1449,6 +1449,13 @@
         "date": "2025-06-02T23:01:44.491624+02:00",
         "sha512sum": "30b49d62cf82e7a2b075de6152b8e8ea59a262078690c48284acce58f1a8e12744f190e70229a30bc82f1af24fd25fd325b8ff248129f94e7a7e5014178a252b",
         "requires": ">=25.02.2-edge"
+      },
+      {
+        "version": "1.9.3-patch1",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.9.3-patch1/nf-tower-1.9.3-patch1.zip",
+        "date": "2025-06-06T14:15:04.531147+02:00",
+        "sha512sum": "3a95fca519d325f05c6e1542f942835db88a84616795ed21e83e572da6f7e12429708ae7fce4f5c1ebded70d24906e289d42ae3f37995f881425d043c00132f3",
+        "requires": ">=24.10.7"
       }
     ]
   },
@@ -2838,6 +2845,13 @@
         "date": "2025-06-02T21:44:49.013866+02:00",
         "sha512sum": "b245627b552e5aaa07e692fa1f6fa0394959bc9e10a5627f779ca02fa7e18d96d69109e875bc2a6aab8d0c95eff7a23ef6644b6443e2c27ddae133f26ff7ce0b",
         "requires": ">=25.05.0-edge"
+      },
+      {
+        "version": "1.7.5-patch1",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.7.5-patch1/nf-wave-1.7.5-patch1.zip",
+        "date": "2025-06-06T14:15:14.199098+02:00",
+        "sha512sum": "e10fc55c8300a2717b992c0232e03244a7d9d58eb5f3effc294983ba4d3c7e2ad588a17c237d3a221c6047d395e9d7f5b131225bc91f34e5e8694585beb2dfde",
+        "requires": ">=24.10.7"
       }
     ]
   },
