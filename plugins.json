@@ -1470,6 +1470,13 @@
         "date": "2025-06-30T16:15:39.800515+02:00",
         "sha512sum": "71a1073999faf1c3537e6504a066c9a8e8fb5fd40d24caa8a6ebcb2297151855780ac661c10dc69f2bf48b398d8519921ce78807cebffe7ba0a094fcea827542",
         "requires": ">=24.04.5"
+      },
+      {
+        "version": "1.9.3-patch2",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.9.3-patch2/nf-tower-1.9.3-patch2.zip",
+        "date": "2025-06-30T18:07:48.283975+02:00",
+        "sha512sum": "377bd8b78f9ef9d2cbbd2ce82f18711a3c07e570205bab91d2cb5b3fbd66620412d19fe65bb5e1330981319c7e7f0b697f65e852a961583fb7e986b7778544ca",
+        "requires": ">=24.10.7"
       }
     ]
   },
