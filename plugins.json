@@ -1103,6 +1103,13 @@
         "date": "2025-06-02T21:45:16.534587+02:00",
         "sha512sum": "7ddd3dff48051a82e02ff9680d669a151bbe5908d387eaec3a77e21650f3e7ce568c88cc0280dd04b4782388d8872530dce7d52817d01cc5ab23fcba1ee59d83",
         "requires": ">=25.05.0-edge"
+      },
+      {
+        "version": "1.21.1",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.21.1/nf-google-1.21.1.zip",
+        "date": "2025-07-01T13:34:23.694097+02:00",
+        "sha512sum": "fcde8dcbe23161f34954f613116b358aa6bd96fc0dc75015ebfc54a54035a4a07c29c4c2206eb1b977ebc5966c3bfddb269dffe062ca46a9390a85feff73ef00",
+        "requires": ">=25.03.0-edge"
       }
     ]
   },
