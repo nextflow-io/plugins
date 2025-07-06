@@ -1732,6 +1732,13 @@
         "date": "2024-07-30T22:41:06.641305+02:00",
         "sha512sum": "22e7787522e3c0ca3bf16a9eb2aa0deef32ae4103ae4f6394247becc94f500704a49f4954615647f8a22868fd69ca260fbb9f4b2f8ae47ff686cf2bc7038efdc",
         "requires": ">=23.05.0-edge"
+      },
+      {
+        "version": "2.0.0",
+        "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/2.0.0/xpack-amzn-2.0.0.zip",
+        "date": "2025-07-06T16:40:03.78911+02:00",
+        "sha512sum": "0a81169f08291faa9fcc2c8d22d5be295c5632b0920767d5be93f21803420186a74d5f9cfa77bce131e0d64949079d5c1b3e59371dca3a4e618edda11e4686b7",
+        "requires": ">=25.06.0-edge"
       }
     ]
   },
@@ -2232,6 +2239,13 @@
         "date": "2024-05-14T10:26:12.454442+02:00",
         "sha512sum": "7a9b9e98fc2721bd3b347bf1768f1d5b80cb9124c69ced184702267985a2f4bdd90522d91fbcb83ca13af66a4bd29a173c8c0f0ab851bac2dc839aab08409c9d",
         "requires": ">=24.04.0-edge"
+      },
+      {
+        "version": "2.0.0",
+        "url": "https://github.com/seqeralabs/xpack-google/releases/download/2.0.0/xpack-google-2.0.0.zip",
+        "date": "2025-07-06T16:39:53.818802+02:00",
+        "sha512sum": "a6b9887ddd5f73510cf85a0b3f5bfad0344c1d9690628e6801ea7b2987286ec765f4b93679e9bd8e14d4d2a299cea9f6d6a703ddc689eeee95e4414467d0a332",
+        "requires": ">=25.06.0-edge"
       }
     ]
   },
