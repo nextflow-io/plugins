@@ -4022,5 +4022,17 @@
         "requires": ">=25.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-python",
+    "releases": [
+      {
+        "version": "0.1.2",
+        "url": "https://github.com/royjacobson/nf-python/releases/download/v0.1.2/nf-python-0.1.2.zip",
+        "date": "2025-07-05T21:33:08+00:00",
+        "sha512sum": "54af03c7179e23a66387dada49cfea588a8f3e25b8e66d662cee5134eafb4ddb217004791beaf87bb4c6aef64c01d3fda5452dd6ec47f1593e2c4f8bf841e866",
+        "requires": ">=22.04.0"
+      }
+    ]
   }
 ]
