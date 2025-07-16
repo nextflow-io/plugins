@@ -3601,10 +3601,10 @@
       },
       {
         "version": "1.0.0-rc.1",
-        "date": "2025-07-14T09:26:50.458177+02:00",
         "url": "https://github.com/nextflow-io/nf-co2footprint/releases/download/1.0.0-rc.1/nf-co2footprint-1.0.0-rc.1.zip",
-        "requires": ">=24.01.0-edge",
-        "sha512sum": "c71631b36d28ecef181242659fc305b33f1cb651452d84a4a01346c9fa973e3e094a13f3b3684d8c8ad2479f2f6d0a82d6556fb30d0d3ca00bc8c23ccd0c71cb"
+        "date": "2025-07-14T09:26:50.458177+02:00",
+        "sha512sum": "c71631b36d28ecef181242659fc305b33f1cb651452d84a4a01346c9fa973e3e094a13f3b3684d8c8ad2479f2f6d0a82d6556fb30d0d3ca00bc8c23ccd0c71cb",
+        "requires": ">=24.01.0-edge"
       }
     ]
   },
@@ -4039,6 +4039,19 @@
         "date": "2025-07-05T21:33:08+00:00",
         "sha512sum": "54af03c7179e23a66387dada49cfea588a8f3e25b8e66d662cee5134eafb4ddb217004791beaf87bb4c6aef64c01d3fda5452dd6ec47f1593e2c4f8bf841e866",
         "requires": ">=22.04.0"
+      }
+    ]
+  },
+  {
+    "id": "nf-databricks",
+    "provider": "seqera",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://github.com/nextflow-io/nf-databricks/releases/download/0.1.0/nf-databricks-0.1.0.zip",
+        "date": "2025-07-16T08:39:53.874318-05:00",
+        "sha512sum": "5f237a7614d27f2e9e16d8d14e3d3018efa8753e3b7c181831098faf1f26838f253adae8c93e11333a7f6d75419b698c2aa27ac85619958968c59fa39c9ef641",
+        "requires": ">=25.04.0"
       }
     ]
   }
