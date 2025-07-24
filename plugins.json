@@ -3612,6 +3612,13 @@
         "date": "2025-07-14T09:26:50.458177+02:00",
         "sha512sum": "c71631b36d28ecef181242659fc305b33f1cb651452d84a4a01346c9fa973e3e094a13f3b3684d8c8ad2479f2f6d0a82d6556fb30d0d3ca00bc8c23ccd0c71cb",
         "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "1.0.0-rc.2",
+        "date": "2025-07-24T16:53:40.888653+02:00",
+        "url": "https://github.com/nextflow-io/nf-co2footprint/releases/download/1.0.0-rc.2/nf-co2footprint-1.0.0-rc.2.zip",
+        "requires": ">=24.01.0-edge",
+        "sha512sum": "3c9c73c7eab23d4eb75f733171aced6d05f8c37f31d72c7eafa72e5ef89c49e6dd01512aae183fe450809aacdc09920161c109df88ba4ce5e8b78248737a03e1"
       }
     ]
   },
