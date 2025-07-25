@@ -1739,6 +1739,13 @@
         "date": "2025-07-06T16:40:03.78911+02:00",
         "sha512sum": "0a81169f08291faa9fcc2c8d22d5be295c5632b0920767d5be93f21803420186a74d5f9cfa77bce131e0d64949079d5c1b3e59371dca3a4e618edda11e4686b7",
         "requires": ">=25.06.0-edge"
+      },
+      {
+        "version": "2.0.1",
+        "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/2.0.1/xpack-amzn-2.0.1.zip",
+        "date": "2025-07-25T15:06:09.316878+02:00",
+        "sha512sum": "a1d67ac4b8d77d780ee2329ed0af447bf502a13a75569cb3860afd3a202ca21adf9a237c6050dc73afee49517f7d34af0da020bbd3381b20151c64afd8f2dda0",
+        "requires": ">=25.06.0-edge"
       }
     ]
   },
@@ -3436,10 +3443,10 @@
       },
       {
         "version": "0.4.8",
-        "date": "2025-06-25T11:37:25.897743+12:00",
         "url": "https://github.com/MemVerge/nf-float/releases/download/0.4.8/nf-float-0.4.8.zip",
-        "requires": ">=23.04.0",
-        "sha512sum": "f8d5d92836ac8da504c8e43b36309d54ea27dc8e2ec46b012856403e61bdb0ae497e7d61d73aee0d0fb63d31d27a0f7301cfdafe4f4bd1a5a55e8810336dbec5"
+        "date": "2025-06-25T11:37:25.897743+12:00",
+        "sha512sum": "f8d5d92836ac8da504c8e43b36309d54ea27dc8e2ec46b012856403e61bdb0ae497e7d61d73aee0d0fb63d31d27a0f7301cfdafe4f4bd1a5a55e8810336dbec5",
+        "requires": ">=23.04.0"
       }
     ]
   },
@@ -3615,10 +3622,10 @@
       },
       {
         "version": "1.0.0-rc.2",
-        "date": "2025-07-24T16:53:40.888653+02:00",
         "url": "https://github.com/nextflow-io/nf-co2footprint/releases/download/1.0.0-rc.2/nf-co2footprint-1.0.0-rc.2.zip",
-        "requires": ">=24.01.0-edge",
-        "sha512sum": "3c9c73c7eab23d4eb75f733171aced6d05f8c37f31d72c7eafa72e5ef89c49e6dd01512aae183fe450809aacdc09920161c109df88ba4ce5e8b78248737a03e1"
+        "date": "2025-07-24T16:53:40.888653+02:00",
+        "sha512sum": "3c9c73c7eab23d4eb75f733171aced6d05f8c37f31d72c7eafa72e5ef89c49e6dd01512aae183fe450809aacdc09920161c109df88ba4ce5e8b78248737a03e1",
+        "requires": ">=24.01.0-edge"
       }
     ]
   },
@@ -4069,7 +4076,7 @@
       }
     ]
   },
-   {
+  {
     "id": "nf-fovus",
     "releases": [
       {
