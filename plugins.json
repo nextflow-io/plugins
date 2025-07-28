@@ -4060,6 +4060,13 @@
         "date": "2025-07-05T21:33:08+00:00",
         "sha512sum": "54af03c7179e23a66387dada49cfea588a8f3e25b8e66d662cee5134eafb4ddb217004791beaf87bb4c6aef64c01d3fda5452dd6ec47f1593e2c4f8bf841e866",
         "requires": ">=22.04.0"
+      },
+      {
+        "version": "0.1.3",
+        "date": "2025-07-28T15:30:22+03:00",
+        "url": "https://github.com/royjacobson/nf-python/releases/download/v0.1.3/nf-python-0.1.3.zip",
+        "requires": ">=23.04.0",
+        "sha512sum": "153133443c0f04059b744c8fd4ece1fddb9c3ee271d68043eef04ab6caeea0bcf4005ddc1eb055e3c8c4f57457b6383fd9ae3338c53a964af110be61dfecc291"
       }
     ]
   },
