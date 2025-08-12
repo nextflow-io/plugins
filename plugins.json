@@ -4070,10 +4070,10 @@
       },
       {
         "version": "0.1.3",
-        "date": "2025-07-28T15:30:22+03:00",
         "url": "https://github.com/royjacobson/nf-python/releases/download/v0.1.3/nf-python-0.1.3.zip",
-        "requires": ">=23.04.0",
-        "sha512sum": "153133443c0f04059b744c8fd4ece1fddb9c3ee271d68043eef04ab6caeea0bcf4005ddc1eb055e3c8c4f57457b6383fd9ae3338c53a964af110be61dfecc291"
+        "date": "2025-07-28T15:30:22+03:00",
+        "sha512sum": "153133443c0f04059b744c8fd4ece1fddb9c3ee271d68043eef04ab6caeea0bcf4005ddc1eb055e3c8c4f57457b6383fd9ae3338c53a964af110be61dfecc291",
+        "requires": ">=23.04.0"
       }
     ]
   },
@@ -4099,6 +4099,19 @@
         "date": "2025-07-22T15:09:47.470325171-07:00",
         "sha512sum": "85a497a027894a89ccd230082adb6606b0ab9d9830a7fc18f281ad44988cb3af2d9bb1544fc4b8fd152b88354a28705f82df915acff674fc82849c21d909c7b1",
         "requires": ">=25.01.0-edge"
+      }
+    ]
+  },
+  {
+    "id": "nf-nim",
+    "provider": "seqeralabs",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://github.com/nextflow-io/nf-nim/releases/download/0.1.0/nf-nim-0.1.0.zip",
+        "date": "2025-08-12T14:41:01.186209-05:00",
+        "sha512sum": "ea410fed73f85df3bba9ebba8dbb76b4eba6b9cfb5e74f7e0fa10f033c3a701381fa9d4fa8cbf7241deb40330af1867b579e9d8c547f0d5e8fd42607b2e6d186",
+        "requires": ">=24.10.0"
       }
     ]
   }
