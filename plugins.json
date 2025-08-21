@@ -2375,6 +2375,13 @@
         "date": "2025-05-28T18:11:00.203177+02:00",
         "sha512sum": "86b833dbba9ed17253d3071e54c86256a6c71fad52245e7ab57d9bbb4081e9d2f39980642316fb68e5bd0202c9a79e6497fa9f21992f34ef5f334fda64a5de64",
         "requires": ">=25.04.0"
+      },
+      {
+        "version": "0.7.1",
+        "url": "https://github.com/nextflow-io/nf-sqldb/releases/download/0.7.1/nf-sqldb-0.7.1.zip",
+        "date": "2025-08-21T14:15:29.6719-05:00",
+        "sha512sum": "0b2dd53152e645eef5589f0522d448ec8d29525647852741fe6b907332812f8b7535349261eb3643ca82904a7cb34ea052a2e2cbd7cbcab89842ea80daa67a43",
+        "requires": ">=25.04.0"
       }
     ]
   },
@@ -3682,7 +3689,7 @@
         "date": "2025-08-19T10:44:52.773942+02:00",
         "sha512sum": "a3d1ec89f4801ef9d4877b17e27337851c95d6ef0ff388c87e0c7a9a844729186a19c4f5a78d465e3afe5205d583e27fe42201c96b3548eb4f66bfc329c8d2da",
         "requires": ">=24.01.0-edge"
-      }      
+      }
     ]
   },
   {
@@ -3796,10 +3803,10 @@
       },
       {
         "version": "0.6.0",
-        "date": "2025-08-20T12:25:22.291770735-05:00",
         "url": "https://github.com/bentsherman/nf-boost/releases/download/0.6.0/nf-boost-0.6.0.zip",
-        "requires": ">=25.04.0",
-        "sha512sum": "72cececa08ea22a88e9b4058adeecb2cf56e64c2273b8279c1922504068306353ac2be7a88f7b344f35e4601b98fab5fd799e0e4330c2fb818ce511359150693"
+        "date": "2025-08-20T12:25:22.291770735-05:00",
+        "sha512sum": "72cececa08ea22a88e9b4058adeecb2cf56e64c2273b8279c1922504068306353ac2be7a88f7b344f35e4601b98fab5fd799e0e4330c2fb818ce511359150693",
+        "requires": ">=25.04.0"
       }
     ]
   },
