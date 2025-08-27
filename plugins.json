@@ -4125,6 +4125,13 @@
         "date": "2025-06-23T10:15:30.89295-05:00",
         "sha512sum": "1abb017ec61e2cae612873dfa3fc2d2e23138b2c9e4128cc41001d8bbb8e3c724ea437cff8ae83ab4e69dcc37559bf0004bac2504dafab695dd5d078b73f17c9",
         "requires": ">=25.04.0"
+      },
+      {
+        "version": "0.3.0",
+        "url": "https://github.com/nf-core/nf-core-utils/releases/download/0.3.0/nf-core-utils-0.3.0.zip",
+        "date": "2025-08-27T17:36:33.292257-05:00",
+        "sha512sum": "38d878c4c324e9ceba737060e537e179c64e67ba87f0865035cc27457533ce0920800a9a6a89cec9426b29474ff62d4a62101e23e05ca2a4ec5fb8a4d9740e76",
+        "requires": ">=25.04.0"
       }
     ]
   },
