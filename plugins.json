@@ -3896,6 +3896,13 @@
         "url": "https://github.com/nextflow-io/nf-schema/releases/download/2.5.0/nf-schema-2.5.0.zip",
         "requires": ">=25.04.0",
         "sha512sum": "3c2c6f93d224076e2008c41c962c68e44c8444a0307da670635df044caaa30cb70d8a2cbacb916073581f6ec8471a3eca80d267819468eb104f3c34b967330f0"
+      },
+      {
+          "version": "2.5.1",
+          "date": "2025-09-02T16:48:39.714891929+02:00",
+          "url": "https://github.com/nextflow-io/nf-schema/releases/download/2.5.1/nf-schema-2.5.1.zip",
+          "requires": ">=25.04.0",
+          "sha512sum": "82c9c17a9f77319386e670e7b52cf79b067320001f083ccdfec77dada9fd53499506200fd10b493cf8f6fc0420f42e2314481c353ca14b3a92f354bf07ad5c13"
       }
     ]
   },
