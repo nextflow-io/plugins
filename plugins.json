@@ -4014,6 +4014,13 @@
         "date": "2024-12-11T08:35:26.594226413+01:00",
         "sha512sum": "8f90053467ce090b91162169d9d0649e38f479ca23b2649e2e084bc25d7c8812bf64b98983b712113cdfcf405f12944a9a1c6cf0ca5de75023bec402b8cee398",
         "requires": ">=24.04.2"
+      },
+      {
+        "version": "0.2.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-parquet/0.2.1/download/nf-parquet-0.2.1.zip",
+        "date": "2025-09-05T15:33:06.885643095Z",
+        "sha512sum": "6c6a519af2c8f4cd10aa1a8c96ce5404803ec623ae243e8afbae8e10caaf93b0420a3a2148945e126531f3e8097d08b89e48da02d4fdbf1a7030b8acd994f778",
+        "requires": ">=24.04.2"
       }
     ]
   },
