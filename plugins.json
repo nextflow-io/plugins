@@ -4240,5 +4240,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-lakefs",
+    "releases": [
+      {
+        "version": "0.2.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-lakefs/0.2.0/download/nf-lakefs-0.2.0.zip",
+        "date": "2025-09-08T22:03:34.292074047Z",
+        "sha512sum": "bc3f7adf1bb0420c20d703759c13a9850f320cc9494cea69471231930ed9e0aa7a0e1db9bbe64fa66228d03f09d85f5f974abb5132999837c565717c50d78ab8",
+        "requires": ">=25.04.0"
+      }
+    ]
   }
 ]
