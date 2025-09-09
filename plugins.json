@@ -1781,6 +1781,13 @@
         "date": "2025-07-25T15:06:09.316878+02:00",
         "sha512sum": "a1d67ac4b8d77d780ee2329ed0af447bf502a13a75569cb3860afd3a202ca21adf9a237c6050dc73afee49517f7d34af0da020bbd3381b20151c64afd8f2dda0",
         "requires": ">=25.06.0-edge"
+      },
+      {
+        "version": "2.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/xpack-amzn/2.1.0/download/xpack-amzn-2.1.0.zip",
+        "date": "2025-09-09T14:44:42.926248206Z",
+        "sha512sum": "8623f0c2e65abd4ebac888382e2083aa8499c87b16d4cd406813fa8c651262423068e97a6e9e5fa1c5525af4f8d4e65f9bef25723f88c681d0bf963857d8150d",
+        "requires": ">=25.07.0-edge"
       }
     ]
   },
