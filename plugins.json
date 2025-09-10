@@ -4252,6 +4252,13 @@
         "date": "2025-08-12T14:41:01.186209-05:00",
         "sha512sum": "ea410fed73f85df3bba9ebba8dbb76b4eba6b9cfb5e74f7e0fa10f033c3a701381fa9d4fa8cbf7241deb40330af1867b579e9d8c547f0d5e8fd42607b2e6d186",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.2.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-nim/0.2.0/download/nf-nim-0.2.0.zip",
+        "date": "2025-09-10T16:51:51.315806177Z",
+        "sha512sum": "acc5001a212d48a768f6f72147c81417cbd11e3479e9054fc5a7215fff0732104167c59a1063ab0e8f8fcda7010d61abc8001ba8ee465e66feeb3aff2fcd5238",
+        "requires": ">=25.04.0"
       }
     ]
   },
