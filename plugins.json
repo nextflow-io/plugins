@@ -3992,6 +3992,13 @@
         "date": "2024-12-08T19:12:13.947884787Z",
         "sha512sum": "c9a57b1d3c9fa8a917b3c3ee93916e28ca3586fd7d40fa8136b08da25a5da7431892cb528f77eb474680452bb0c83efcb88970074bee219691c0c142b6c808e0",
         "requires": ">=24.04.0"
+      },
+      {
+        "version": "0.4.0-edge1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-nomad/0.4.0-edge1/download/nf-nomad-0.4.0-edge1.zip",
+        "date": "2025-09-12T10:23:30.087147167Z",
+        "sha512sum": "1897ac366d2f0a0c22887c55feeae6d355eac35601763ed8e3820fbd317e6a5151c9a79a83ceb9594ec2de75865f2ca78771139686e089ded23e8c5c7a13346d",
+        "requires": ">=24.10.4"
       }
     ]
   },
