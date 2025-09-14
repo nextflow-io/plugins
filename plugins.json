@@ -720,6 +720,13 @@
         "date": "2025-04-05T17:38:41.907245+02:00",
         "sha512sum": "5068e61e49af8f2c48f83fcb7ef581cc461dc1621a80a54b249c4934fe55ca32ab4ee1559d18d9b62bbf3190e1ed94342ae3110413d50bcdcc92c00ca9c378e1",
         "requires": ">=25.02.2-edge"
+      },
+      {
+        "version": "1.3.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-console/1.3.0/download/nf-console-1.3.0.zip",
+        "date": "2025-09-14T20:20:48.781008713Z",
+        "sha512sum": "7095cd1d878da9678266e247b1ef5139c3fbc32781e37b7102cbe8dd2baa6bcc29899332a7abe06cdb49202500863270bc34073c6ec9bfcc82b9b028b0da5f21",
+        "requires": ">=25.08.0-edge"
       }
     ]
   },
