@@ -4287,5 +4287,17 @@
         "requires": ">=25.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-aspera",
+    "releases": [
+      {
+        "version": "0.1.0-edge1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-aspera/0.1.0-edge1/download/nf-aspera-0.1.0-edge1.zip",
+        "date": "2025-09-15T16:13:56.446549687Z",
+        "sha512sum": "33675f98b56be8ef058030a3dbdc39f189e85f76cc19e5b26774ef8caabbcb6a117542e93b380a3334b9d1d00046b3746d96b54416809bd268b358177cfaa796",
+        "requires": ">=24.11.0-edge"
+      }
+    ]
   }
 ]
