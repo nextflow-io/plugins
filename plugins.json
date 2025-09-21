@@ -4299,5 +4299,17 @@
         "requires": ">=24.11.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-csvext",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-csvext/0.1.0/download/nf-csvext-0.1.0.zip",
+        "date": "2025-09-21T09:57:51.353760570Z",
+        "sha512sum": "59db021a88f8285da4e3a51e300920507698bbb1bc79c3d2a53978fbb972d2c583c2a208b64dddfe5169c40f09a23343458c6db5aca01631b3080b67a52ec8c2",
+        "requires": ">=24.11.0-edge"
+      }
+    ]
   }
 ]
