@@ -4318,5 +4318,17 @@
         "requires": ">=24.11.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-bactopia",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/bactopia/nf-bactopia/releases/download/v1.0.0/nf-bactopia-1.0.0.zip",
+        "date": "2025-10-03T18:49:05+00:00",
+        "sha512sum": "dc6e3c7f6b6068cda1cb3aa3b98559e5a067de75ec4278d404a46ae562b096cce625fd987a2286d84611246c5ffec5b86373c5db0a0ad9c3de36a00601749c2e",
+        "requires": ">=25.04.0"
+      }
+    ]
   }
 ]
