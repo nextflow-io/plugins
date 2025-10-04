@@ -4318,5 +4318,17 @@
         "requires": ">=24.11.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-bactopia",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-bactopia/1.0.0/download/nf-bactopia-1.0.0.zip",
+        "date": "2025-10-04T00:07:16.880966318Z",
+        "sha512sum": "ad378a5b6ff643d9f3decd120e072199aacd6359823d3124a13433df63f126a4d5fcb718ed8ae5045cd181d1408669563805dea995bce9a9e58ed053754af50a",
+        "requires": ">=25.04.0"
+      }
+    ]
   }
 ]
