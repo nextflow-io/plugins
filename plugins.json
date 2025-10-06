@@ -4323,6 +4323,13 @@
         "date": "2025-09-21T09:57:51.353760570Z",
         "sha512sum": "59db021a88f8285da4e3a51e300920507698bbb1bc79c3d2a53978fbb972d2c583c2a208b64dddfe5169c40f09a23343458c6db5aca01631b3080b67a52ec8c2",
         "requires": ">=24.11.0-edge"
+      },
+      {
+        "version": "0.2.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-csvext/0.2.0/download/nf-csvext-0.2.0.zip",
+        "date": "2025-10-06T17:21:06.822352514Z",
+        "sha512sum": "6c3d5fbff93199e20fade2dec71f71935c39d229b0afb4c58ad06a0c8051afd62cc1d0bf36577af909e1064354b40164e3386a937bea81e77336241f986d087e",
+        "requires": ">=24.11.0-edge"
       }
     ]
   },
