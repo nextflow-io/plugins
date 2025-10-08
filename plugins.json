@@ -2553,6 +2553,13 @@
         "date": "2025-08-15T14:36:15.937563589Z",
         "sha512sum": "636f354059cbe7229e62a1c03e2513ba9cc44f949531c024fa69e259260d6ebe370ab833c5b31b1009cd0617409cb0165b67bc07c31116d1f474649a8fe43244",
         "requires": ">=25.07.0-edge"
+      },
+      {
+        "version": "0.5.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-codecommit/0.5.0/download/nf-codecommit-0.5.0.zip",
+        "date": "2025-10-08T18:21:50.216867Z",
+        "sha512sum": "c968e17673369984730c36b6c84f3f51f147c91ab3dc529f8614616d8d8cc257c149ecfe4134b551a8ee2cb2f3bdde4619f61d335441db049f63c833362f6891",
+        "requires": ">=25.09.0-edge"
       }
     ]
   },
