@@ -4167,6 +4167,13 @@
         "date": "2025-09-30T21:05:05.934777010Z",
         "sha512sum": "0f92365613963e412eebc54cebc05ddf305249b06eb328e9efcf53e007d07409c38e2541a04eac23805eea5a70eb9160964fa4c83d8d6e089486be2e70024fc8",
         "requires": ">=25.04.0"
+      },
+      {
+        "version": "0.2.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-lamin/0.2.1/download/nf-lamin-0.2.1.zip",
+        "date": "2025-10-17T13:01:39.952367Z",
+        "sha512sum": "3270bd07e61c95c5db36eb5d81baa6bc63bb052dd4d3f897f5b17f318848c4ff97aa0065fbcbb7bacc0a5452af2da4cd3e4838001c338a3e1ef07c47d5f78cfd",
+        "requires": ">=25.04.0"
       }
     ]
   },
