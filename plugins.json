@@ -1152,6 +1152,13 @@
         "date": "2025-08-15T14:36:30.429646799Z",
         "sha512sum": "46dec8e695cc1c58369f59aea3ebcfc324ba016a92710f88ecef9209f54e831351784931732a31e7ba8cb6935fdb09e054a06e4326b155b5a02725eab64f064c",
         "requires": ">=25.07.0-edge"
+      },
+      {
+        "version": "1.23.2",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-google/1.23.2/download/nf-google-1.23.2.zip",
+        "date": "2025-10-21T15:57:12.554709Z",
+        "sha512sum": "a6e68ec2f7ec5c8c4174b481f1c31678d78933cf5be70c4b3efcb70efd05950340ff81aab86030e7a6a7f378f060df2805735a3de1469a0d6ff644ec467996ac",
+        "requires": ">=25.09.2-edge"
       }
     ]
   },
