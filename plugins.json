@@ -1561,6 +1561,13 @@
         "date": "2025-10-06T23:32:52.997555+02:00",
         "sha512sum": "6f1f3ddf7ec28571d1da98f98f414b59ae380060227c48be8297c0532b1f89631d937dd737f7c47d8b457a7776ee3d5351023450e6fac4c6ffde54b80d01b4d6",
         "requires": ">=25.02.2-edge"
+      },
+      {
+        "version": "1.17.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-tower/1.17.1/download/nf-tower-1.17.1.zip",
+        "date": "2025-10-22T16:29:07.294264Z",
+        "sha512sum": "5412d1f36935718db40db10daaba80255a14794d6ec4c00e0634422907159e1fe42ef120f05164f9b560f4b55977913fa698979a38d6f609322e4916ddd6859e",
+        "requires": ">=25.09.2-edge"
       }
     ]
   },
