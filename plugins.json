@@ -2337,6 +2337,13 @@
         "date": "2025-09-09T14:44:41.481144526Z",
         "sha512sum": "3eaf25deaff791467b0d85334cbd0e47a07737aa8df4e05581adb5a768d375dccdfb8fe4bdd20ae8cec21b4fa60eed35a3c9b7b48d077f4937253f2f60f8e819",
         "requires": ">=25.07.0-edge"
+      },
+      {
+        "version": "2.1.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/xpack-google/2.1.1/download/xpack-google-2.1.1.zip",
+        "date": "2025-10-22T14:54:03.825487Z",
+        "sha512sum": "5ae37107458401b69239d5e14ba704a066458fff4349859c6abc7c0b1caac8b22419cf0979dde4c7f83561ae6796796db010642eda40a223241045d2dca5cce5",
+        "requires": ">=25.09.2-edge"
       }
     ]
   },
