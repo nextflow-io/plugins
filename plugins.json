@@ -603,6 +603,13 @@
         "date": "2025-10-06T23:32:22.527893+02:00",
         "sha512sum": "1b131c0889b98b97e96b062c614efa1c893ad9b4a86d8fa18044f80ceaae1f0c7e37e29341b6cabc2819f4520e8bd25b2683ed0534d05cd6a5ec54bc5779facf",
         "requires": ">=25.03.0-edge"
+      },
+      {
+        "version": "3.4.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-amazon/3.4.1/download/nf-amazon-3.4.1.zip",
+        "date": "2025-10-22T16:29:06.396625Z",
+        "sha512sum": "bc7c4b6166aa5ef32df3362ceec263df434875b1db332594cd71c8d3f462adfcad55802034cbcfd269917e1efa4f45d224143f024fc1170d156daa40897f3873",
+        "requires": ">=25.09.2-edge"
       }
     ]
   },
