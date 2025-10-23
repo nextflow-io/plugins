@@ -3273,6 +3273,13 @@
         "date": "2025-09-04T16:36:30.763584765Z",
         "sha512sum": "2dde9206abca4ebf68f4d68b9716a24b95898d04f8013e5fdb082ae6abcb44f896775119d1ce564c310a5248989c1139f43030e1e33a2e7cf0d12927383f63a8",
         "requires": ">=25.04.0"
+      },
+      {
+        "version": "1.6.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-prov/1.6.0/download/nf-prov-1.6.0.zip",
+        "date": "2025-10-23T17:11:41.245083Z",
+        "sha512sum": "5033c79863027d094ad3784873f48f8e888922e6ce6b951f2328af09a97a293c1dfe24ce4699067a1d16a0baad5652aab4f3f2ca01128213e15aa67fd148e3de",
+        "requires": ">=25.10.0"
       }
     ]
   },
