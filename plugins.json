@@ -4393,5 +4393,17 @@
         "requires": ">=25.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-bids",
+    "releases": [
+      {
+        "version": "0.1.0-beta",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-bids/0.1.0-beta/download/nf-bids-0.1.0-beta.zip",
+        "date": "2025-10-30T18:59:14.281500Z",
+        "sha512sum": "4e716f8aee784b32307ce01de626b71603cedf2083bf73ac6c41b4053a3d21873e3777dc79f3917777ee4ecabce8f2047b56241dfa4b86f26a835ca73da6cc66",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
