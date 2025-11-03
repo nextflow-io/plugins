@@ -4412,5 +4412,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-slack",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-slack/0.1.0/download/nf-slack-0.1.0.zip",
+        "date": "2025-11-03T13:45:04.581873Z",
+        "sha512sum": "ff34b4bda13aeecd50af0177c031e4337bc62b3aa0142a41f8a48cc564bf66add373a93ff78da6946e46c42cc6eadc84b525ad6ab4426c6fc6502472e5ac1d09",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
