@@ -4445,5 +4445,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-ped",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-ped/0.1.0/download/nf-ped-0.1.0.zip",
+        "date": "2025-11-06T16:07:24.754204Z",
+        "sha512sum": "74d7643476a2966a163d4af9112a01b72da08a9a5fa296f38d4df398c38b4c9d93764992b71d9636768ba38dc3c523f56dd61425490bb906c4014c1c22630409",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
