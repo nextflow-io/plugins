@@ -4302,6 +4302,13 @@
         "date": "2025-07-22T15:09:47.470325171-07:00",
         "sha512sum": "85a497a027894a89ccd230082adb6606b0ab9d9830a7fc18f281ad44988cb3af2d9bb1544fc4b8fd152b88354a28705f82df915acff674fc82849c21d909c7b1",
         "requires": ">=25.01.0-edge"
+      },
+      {
+        "version": "1.0.2",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-fovus/1.0.2/download/nf-fovus-1.0.2.zip",
+        "date": "2025-11-17T18:21:14.083395Z",
+        "sha512sum": "b40ae90c8c894d0f0e6b5c36ccc7780cd3d8ade34dcbf0624b3e1633c676c0581c5019a186a543f3564d240836408c23f0883fb3fe952240b34a5341e5d43841",
+        "requires": ">=25.10.0"
       }
     ]
   },
