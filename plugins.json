@@ -3759,6 +3759,13 @@
         "date": "2025-08-19T10:44:52.773942+02:00",
         "sha512sum": "a3d1ec89f4801ef9d4877b17e27337851c95d6ef0ff388c87e0c7a9a844729186a19c4f5a78d465e3afe5205d583e27fe42201c96b3548eb4f66bfc329c8d2da",
         "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "1.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-co2footprint/1.1.0/download/nf-co2footprint-1.1.0.zip",
+        "date": "2025-11-07T15:25:39.764583Z",
+        "sha512sum": "b3a1c9bb5c566419afcaa2dd9e6fc7a173275233c4e52c1398552efa5dd69f86434578d6095b0b9900eb7e2e823f4a40cd3339d6ffd27119cbd9e75d01876ab4",
+        "requires": ">=24.10.6"
       }
     ]
   },
