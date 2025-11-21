@@ -4485,5 +4485,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-storagemetrics",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-storagemetrics/0.1.0/download/nf-storagemetrics-0.1.0.zip",
+        "date": "2025-11-20T01:47:35.472721Z",
+        "sha512sum": "071bf751735ada3d88fa0ee57d9fbde9a0fcf9690fcdcb0b892837ecd376b34b93bd2a8e152ce6d665e2b028a7116d9da5b185a82ab2bfcd9970c37f2a55380f",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
