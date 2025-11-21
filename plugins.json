@@ -4412,6 +4412,13 @@
         "date": "2025-11-04T17:43:04.475536Z",
         "sha512sum": "284de350518daca3cced9ec25ceac93d62d236971c999ac9c6ab05ccf9e0cb6a6ceba944ef527e64e952b7f310f4385d04e66590dc5f40c97c88dc72d536e534",
         "requires": ">=25.10.0"
+      },
+      {
+        "version": "1.0.4",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-bactopia/1.0.4/download/nf-bactopia-1.0.4.zip",
+        "date": "2025-11-21T18:56:32.712392Z",
+        "sha512sum": "8925329fb65e1431a76f63b573978d3bb5855170cc7ca32120c6719e1ef9a01fd616aca54179745fbfdeceb2471e8bef013335d19d866116bc7d52b7e190519f",
+        "requires": ">=25.10.0"
       }
     ]
   },
