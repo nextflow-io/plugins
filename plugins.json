@@ -3679,6 +3679,13 @@
         "date": "2023-11-21T21:56:18.814126-08:00",
         "sha512sum": "7cae188cdf5f1d5ba0283e7e80a70a220e3716dba3ec1b22b6fbe35a28c589044d493020d88ae1e9a2a7b4894b291b20498dd46b7dcf9e05c2f04aa8bbf6085d",
         "requires": ">=22.10.2"
+      },
+      {
+        "version": "2.0.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-dotenv/2.0.1/download/nf-dotenv-2.0.1.zip",
+        "date": "2025-11-21T16:51:43.015162Z",
+        "sha512sum": "86497dc1cfc7388502f9f1c964a571a730ce1cd3d8f340b800efbb42c2e6c2333c9c5187510dac76530b5ac90209ce0349fa43fd8996c3a57b5ad8b03b67076b",
+        "requires": ">=25.10.0"
       }
     ]
   },
