@@ -4516,6 +4516,13 @@
         "date": "2025-11-20T01:47:35.472721Z",
         "sha512sum": "071bf751735ada3d88fa0ee57d9fbde9a0fcf9690fcdcb0b892837ecd376b34b93bd2a8e152ce6d665e2b028a7116d9da5b185a82ab2bfcd9970c37f2a55380f",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.1.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-storagemetrics/0.1.1/download/nf-storagemetrics-0.1.1.zip",
+        "date": "2025-11-24T15:51:00.686378Z",
+        "sha512sum": "2bd7f3186ea8a71420f03495aa8958747240f39cda95c7b178cd6af7101f085013e4e9d9b34c3f4615ca3e233a1d1386ce2ff255324cd2d329b59f26d336187c",
+        "requires": ">=24.10.0"
       }
     ]
   }
