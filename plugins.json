@@ -4162,6 +4162,13 @@
         "date": "2025-10-06T23:32:44.336182+02:00",
         "sha512sum": "95b98d6d978a9e6ab5f74841fc377f29230c94ba11af688cbbc99e8fea86911421dfa802b3396d5f9bec71354bab63f96b701af6ca63c777340839b55f746cd2",
         "requires": ">=25.03.0-edge"
+      },
+      {
+        "version": "1.3.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-k8s/1.3.0/download/nf-k8s-1.3.0.zip",
+        "date": "2025-11-28T21:12:17.290725Z",
+        "sha512sum": "9efd4cac9153193436ef30ec24b52e426458022d71a2b946b5838758a6f4977c0e20f0830f198bbb3b1edaba0f1ef8be116174846c2bac3a7efb40f99ada23a7",
+        "requires": ">=25.11.0-edge"
       }
     ]
   },
