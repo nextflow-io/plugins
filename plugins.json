@@ -3055,6 +3055,13 @@
         "date": "2025-08-15T14:37:05.599369999Z",
         "sha512sum": "e433b1bf56e50c5a0e2f9e1463fe5c8c30b1f80ac5a130d72eb30d8a2efbe58caf2946f95f7c054d750b5a1f0a40d70888b3a2e56ba8f67ee9b0def08a304594",
         "requires": ">=25.07.0-edge"
+      },
+      {
+        "version": "1.17.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-wave/1.17.0/download/nf-wave-1.17.0.zip",
+        "date": "2025-11-28T21:12:22.480031Z",
+        "sha512sum": "cceae42df247f35aee2839299fad85a85abf655b2fe3ff4544eaef24f1bcba1292bd0b7a273cf7e06c7c95aa6fb38e00c2b89e32f6026ded997a102e50cf210c",
+        "requires": ">=25.11.0-edge"
       }
     ]
   },
