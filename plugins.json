@@ -2269,6 +2269,13 @@
         "date": "2025-09-08T15:27:01.61619+02:00",
         "sha512sum": "a6efc74c52d8501ef805edd65f6350c4ecfba1dd247c755cad5658d03b478183acc1af6cc10516d0a1a58c5da3b7533fff634860e543461910c08ee44d55d5a7",
         "requires": ">=25.01.0-edge"
+      },
+      {
+        "version": "1.21.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-azure/1.21.0/download/nf-azure-1.21.0.zip",
+        "date": "2025-11-28T21:12:16.127846Z",
+        "sha512sum": "69958f1b66930e52d79537636fdec2b048eedc753e96750df8d44d34bf2cb0cfdbb9a7ecaecd3059f0c005036c3cbe63a5bd82db1d00967fd9cd23d27873b02c",
+        "requires": ">=25.11.0-edge"
       }
     ]
   },
