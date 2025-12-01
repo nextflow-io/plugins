@@ -4532,5 +4532,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-rest",
+    "releases": [
+      {
+        "version": "0.9.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-rest/0.9.0/download/nf-rest-0.9.0.zip",
+        "date": "2025-12-01T15:02:17.948170Z",
+        "sha512sum": "5e84649f13514c1b4e7e7b036a31055b750ac2133be9a6dd2ee0540aa94345ae5f26ec251920ba2301cb3ec0e35daccb5fd57341f4dbe9fedc7a4d4124a87d4c",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
