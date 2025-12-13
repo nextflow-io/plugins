@@ -4584,6 +4584,13 @@
         "date": "2025-12-07T16:21:13.609852Z",
         "sha512sum": "07c8590a7dda81da73ae3513fab75577c4fe13a27776ba83e5908793173a80a37dd1443c637db2caef877fb4d89ea5b9797efb105a1df3eaf308f8b84fe85a1f",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "1.0.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-rest/1.0.1/download/nf-rest-1.0.1.zip",
+        "date": "2025-12-13T08:27:24.203333Z",
+        "sha512sum": "9d4cb4b54acad9a21cd81d802bc3f3b352395ffc7ed5f88d4686d6d12f0e20baae6234f75a34748a52336b227f22a71ddc481d784d7339d8063e3077cdb46f5c",
+        "requires": ">=24.10.0"
       }
     ]
   }
