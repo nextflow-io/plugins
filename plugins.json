@@ -4614,5 +4614,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-anndata",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-anndata/0.1.0/download/nf-anndata-0.1.0.zip",
+        "date": "2026-01-02T15:52:27.385332Z",
+        "sha512sum": "7193eeda6d5ad59aa6ec63a9eb019f2e2654eba2011d154018b0b21d0652ae903352a08dba39ecf5558620d4f92f8749f53c3f80c88aa68820e3693b65ce97eb",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
