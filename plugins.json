@@ -4482,6 +4482,13 @@
         "requires": ">=24.10.0"
       },
       {
+        "version": "0.1.0-beta.7",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-bids/0.1.0-beta.7/download/nf-bids-0.1.0-beta.7.zip",
+        "date": "2025-12-05T01:06:51.504669Z",
+        "sha512sum": "42a5b16178d87c75a95a91b9609e6c46ab200041cb6830f70f5dc8dbcaf5835ca63248b34a9a27d93e57adf10632896ca38fd6a30809db3f194bfeb313c0fbb3",
+        "requires": ">=24.10.0"
+      },
+      {
         "version": "0.1.0-beta.8",
         "url": "https://registry.nextflow.io/api/v1/plugins/nf-bids/0.1.0-beta.8/download/nf-bids-0.1.0-beta.8.zip",
         "date": "2025-12-05T01:36:34.905985Z",
