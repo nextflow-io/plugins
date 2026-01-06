@@ -4633,6 +4633,13 @@
         "date": "2026-01-06T02:04:30.720429Z",
         "sha512sum": "0949b113c82bb9e2d2003e1b9762a66670e0112d87fbd0d8348ef09071b2f339717151b86fac0afa3626d8fa2808ca29068b68405ade3c31040db03ebb76608f",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "1.2.6",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-rest/1.2.6/download/nf-rest-1.2.6.zip",
+        "date": "2026-01-06T02:06:36.489144Z",
+        "sha512sum": "0977ffb4c5f5af68ece64487d8fd78d1d2e3d7a9310e08049af2836231dc34faafff4c690da76646c4d563466190c4f4526367aab1e78685f8452201a93250fc",
+        "requires": ">=24.10.0"
       }
     ]
   },
