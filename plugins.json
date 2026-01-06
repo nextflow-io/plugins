@@ -4640,5 +4640,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-gadi",
+    "releases": [
+      {
+        "version": "1.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-gadi/1.1.0/download/nf-gadi-1.1.0.zip",
+        "date": "2025-12-11T09:16:34.466377Z",
+        "sha512sum": "1446eb5b28fd1748e8fcb600c31bc65a3043e1f4561c6d94c6277ecaf84d547e9047ba6e5a0450cbc79b1e4680e4fbc179da315f89e74abe7fe68a1ac22b14bf",
+        "requires": ">=24.04.1"
+      }
+    ]
   }
 ]
