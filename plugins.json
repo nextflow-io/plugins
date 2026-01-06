@@ -4355,6 +4355,20 @@
         "date": "2025-11-03T20:18:00.263199Z",
         "sha512sum": "ebcf1c6e21cd9802a530ed000f82e87cf8dbb36394c0d73de313846f023dc98e1b95aef704e505dcf71781c683a18be6b2e20c83662297dd3275c1f5d76926a0",
         "requires": ">=25.04.0"
+      },
+      {
+        "version": "0.3.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-lakefs/0.3.0/download/nf-lakefs-0.3.0.zip",
+        "date": "2025-12-16T22:36:36.867539Z",
+        "sha512sum": "7bde4f75722e061053a21a5109ff378ed5c589e5a6d1f53c043ad40257946e63bf43db259cb5a8ccba794ea437debf4b601d6c1e959f5a1b788752b7daf8588a",
+        "requires": ">=25.04.0"
+      },
+      {
+        "version": "0.3.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-lakefs/0.3.1/download/nf-lakefs-0.3.1.zip",
+        "date": "2025-12-22T18:27:40.721764Z",
+        "sha512sum": "42fa4de7db61174f22b3687c202889ddf97aed8cd57b4a2b620b96c05985c9fd81d4544290d94802dbe33ec747531c1f6461f8bb968f1c1d3e6354cff62285cf",
+        "requires": ">=25.04.0"
       }
     ]
   },
@@ -4473,6 +4487,20 @@
         "date": "2025-12-05T01:06:51.504669Z",
         "sha512sum": "42a5b16178d87c75a95a91b9609e6c46ab200041cb6830f70f5dc8dbcaf5835ca63248b34a9a27d93e57adf10632896ca38fd6a30809db3f194bfeb313c0fbb3",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.1.0-beta.8",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-bids/0.1.0-beta.8/download/nf-bids-0.1.0-beta.8.zip",
+        "date": "2025-12-05T01:36:34.905985Z",
+        "sha512sum": "33c3fdec5c13bbb92b10a8e8c23667f50f0278f4ce2fce6c8704442c03d7a26060942a0486477d6d4fc520a64ce7419386134344e96993d0eb769937f0122cfb",
+        "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.1.0-beta.9",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-bids/0.1.0-beta.9/download/nf-bids-0.1.0-beta.9.zip",
+        "date": "2025-12-06T19:08:42.872478Z",
+        "sha512sum": "dde404ca3154be5667d99a30506006c48c84e848abbed582ea74dc98e9957323c6ded1bfa9afb5b47401cf444568d95fdec0805d505cd85671330b2a0043df14",
+        "requires": ">=24.10.0"
       }
     ]
   },
@@ -4505,6 +4533,13 @@
         "url": "https://registry.nextflow.io/api/v1/plugins/nf-slack/0.2.1/download/nf-slack-0.2.1.zip",
         "date": "2025-11-13T19:19:13.898513Z",
         "sha512sum": "54ae47ff588f52fc53769cf9492189c1bb5e37370d58607dd62a95cc5aa8041cea4aef8504cb254b3da5dc1adda0bb1f4e289223fbbf767bf7dfe9e477bf2cf3",
+        "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.3.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-slack/0.3.0/download/nf-slack-0.3.0.zip",
+        "date": "2025-12-16T12:24:29.374862Z",
+        "sha512sum": "bb38ed89740bd5fab32f4b328cec42bd7a4864358cd1afa3d03e379180b305b4fc7d9607ddcebc6c169995c2fcb9a0f908122ba952714205cc2f584e57bbad26",
         "requires": ">=24.10.0"
       }
     ]
@@ -4569,6 +4604,39 @@
         "url": "https://registry.nextflow.io/api/v1/plugins/nf-rest/0.9.0/download/nf-rest-0.9.0.zip",
         "date": "2025-12-01T15:02:17.948170Z",
         "sha512sum": "5e84649f13514c1b4e7e7b036a31055b750ac2133be9a6dd2ee0540aa94345ae5f26ec251920ba2301cb3ec0e35daccb5fd57341f4dbe9fedc7a4d4124a87d4c",
+        "requires": ">=24.10.0"
+      },
+      {
+        "version": "1.0.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-rest/1.0.0/download/nf-rest-1.0.0.zip",
+        "date": "2025-12-07T16:21:13.609852Z",
+        "sha512sum": "07c8590a7dda81da73ae3513fab75577c4fe13a27776ba83e5908793173a80a37dd1443c637db2caef877fb4d89ea5b9797efb105a1df3eaf308f8b84fe85a1f",
+        "requires": ">=24.10.0"
+      },
+      {
+        "version": "1.0.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-rest/1.0.1/download/nf-rest-1.0.1.zip",
+        "date": "2025-12-13T08:27:24.203333Z",
+        "sha512sum": "9d4cb4b54acad9a21cd81d802bc3f3b352395ffc7ed5f88d4686d6d12f0e20baae6234f75a34748a52336b227f22a71ddc481d784d7339d8063e3077cdb46f5c",
+        "requires": ">=24.10.0"
+      }
+    ]
+  },
+  {
+    "id": "nf-anndata",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-anndata/0.1.0/download/nf-anndata-0.1.0.zip",
+        "date": "2026-01-02T15:52:27.385332Z",
+        "sha512sum": "7193eeda6d5ad59aa6ec63a9eb019f2e2654eba2011d154018b0b21d0652ae903352a08dba39ecf5558620d4f92f8749f53c3f80c88aa68820e3693b65ce97eb",
+        "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.1.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-anndata/0.1.1/download/nf-anndata-0.1.1.zip",
+        "date": "2026-01-02T17:10:19.298052Z",
+        "sha512sum": "e21ca8d0e7d00ddde105d06ce940015c5b160b957703525eb9f09e45157b4b2a343dfd50c5079a8badd19198bed02ec8a6a093e1ff5a375b06b03a36027eb8e6",
         "requires": ">=24.10.0"
       }
     ]
