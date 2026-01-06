@@ -4678,5 +4678,17 @@
         "requires": ">=24.04.1"
       }
     ]
+  },
+  {
+    "id": "nf-pregex",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-pregex/1.0.0/download/nf-pregex-1.0.0.zip",
+        "date": "2025-12-31T02:28:25.473329Z",
+        "sha512sum": "f1a6036fa73e1a3342f5c768991fb967d6f8a2019794d78eaf6dbe5216c3b14ac7b530170b8ff1e063aea6cb45d2d999455fc817d649c898753677532aeb8660",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
