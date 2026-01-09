@@ -4291,6 +4291,13 @@
         "date": "2025-07-28T15:30:22+03:00",
         "sha512sum": "153133443c0f04059b744c8fd4ece1fddb9c3ee271d68043eef04ab6caeea0bcf4005ddc1eb055e3c8c4f57457b6383fd9ae3338c53a964af110be61dfecc291",
         "requires": ">=23.04.0"
+      },
+      {
+        "version": "0.1.4",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-python/0.1.4/download/nf-python-0.1.4.zip",
+        "date": "2026-01-09T13:50:38.432160Z",
+        "sha512sum": "99d59cf3e396ea934480f6ad1571e9a4038c1cd4c80e6836ce769c5eba06d01f126be2b8ce7eea5ae5bd842634dcb6bfe6851797b06a60469130803ee9a14567",
+        "requires": ">=24.04.0"
       }
     ]
   },
