@@ -4718,5 +4718,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-iac",
+    "releases": [
+      {
+        "version": "0.2.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-iac/0.2.0/download/nf-iac-0.2.0.zip",
+        "date": "2026-01-19T07:16:53.599982Z",
+        "sha512sum": "f950a461cc69f4fc6fb105be423f17a2159c6c3ea825ef9e24b5bf178af4b56001ecfd4c85e1a1b10f2eb80ae1447af114c7f1e1ea62418d92bc494b559f7b79",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
