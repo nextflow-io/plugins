@@ -4735,6 +4735,13 @@
         "date": "2026-01-17T00:54:58.791855Z",
         "sha512sum": "8882c55dbd56f298c3446640746ff1d8744f82bfd71a6a71d7ebec833a3e442c57b86a21572bcbe0920048009afc0fd085ded399dd2717e6487a9186e8514d80",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.3.3",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-iac/0.3.3/download/nf-iac-0.3.3.zip",
+        "date": "2026-01-26T05:02:57.092580Z",
+        "sha512sum": "c0e02aef3548a2dffd8f653357f4f4647c96b8646de19259e2e3d08bccf32b78e3d8ab0a8bf758b8d7810ceadf89b0751e3f4f9c9cbdb0be20853c398d9254fb",
+        "requires": ">=24.10.0"
       }
     ]
   }
