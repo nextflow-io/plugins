@@ -4383,6 +4383,13 @@
         "date": "2025-12-22T18:27:40.721764Z",
         "sha512sum": "42fa4de7db61174f22b3687c202889ddf97aed8cd57b4a2b620b96c05985c9fd81d4544290d94802dbe33ec747531c1f6461f8bb968f1c1d3e6354cff62285cf",
         "requires": ">=25.04.0"
+      },
+      {
+        "version": "0.4.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-lakefs/0.4.0/download/nf-lakefs-0.4.0.zip",
+        "date": "2026-02-07T23:26:44.819158Z",
+        "sha512sum": "8b3b31e24233f4a73eb71bf51df7d6b40f02da1684e81fac164520c947ab5b5b649a9da038b243dd25a7068b17bb6e1710b1671aaa436bfd1da4ad33a2cb8a69",
+        "requires": ">=25.04.0"
       }
     ]
   },
