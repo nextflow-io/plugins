@@ -3634,6 +3634,13 @@
         "date": "2025-01-20T17:14:44.944061+01:00",
         "sha512sum": "7ab783120483406691e85006e22f3fc0c6a43a7bef11abb4076c47963ec5bdba7d38dd60f19b22906ca15b1264a848ca0e62fbb4cc3ad2b62900994446484dfb",
         "requires": ">=24.04.4"
+      },
+      {
+        "version": "0.6.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-cloudcache/0.6.0/download/nf-cloudcache-0.6.0.zip",
+        "date": "2026-02-11T20:40:08.538519Z",
+        "sha512sum": "7ebafd641a7d7243301c2ee92973b9ed72ebe551d38244534d79504b141f0d92c5cb99d8a21b7b2f19189afaebf4640367dd79b82c389638b3fdccbd0605c5ac",
+        "requires": ">=25.08.0-edge"
       }
     ]
   },
