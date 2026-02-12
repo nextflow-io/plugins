@@ -4569,6 +4569,13 @@
         "date": "2026-01-05T12:46:36.104859Z",
         "sha512sum": "10b10c80fa0d9b520d8285154828432ab0aec939d4ca8be7a4cf8f266dcca40b1986b5538c5f3e5d1b5a4a85d35a3ba28fd5690d9f3c4ee46ddc9aae3d53b3c7",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.4.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-slack/0.4.1/download/nf-slack-0.4.1.zip",
+        "date": "2026-02-12T13:16:59.952845Z",
+        "sha512sum": "50fe157648cd0fcfc944da838357e50374663da9f2f9db4c47ae1501b522af6a90fae6b12a467be0d12db16d978c7b659ce6286d0c25ecb358f69e54f3cfa8a7",
+        "requires": ">=24.10.0"
       }
     ]
   },
