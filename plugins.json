@@ -4221,6 +4221,13 @@
         "date": "2025-05-17T09:00:00.130986Z",
         "sha512sum": "a5987c72f52831e0fb0b4cf5ba8d7a3376ce983111be55b393e6e49aa5c65fa000186ffbfe35fd48393eb47a55bd57b5f0a7fdb1e0b7403fcb86be1f99aa6f7c",
         "requires": ">=22.10.2"
+      },
+      {
+        "version": "1.0.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-fgbio/1.0.1/download/nf-fgbio-1.0.1.zip",
+        "date": "2026-02-12T18:17:51.879855Z",
+        "sha512sum": "85156feab323cb22a29105c2417b01a9aed16ff3981f59b9c984b0fd16f5b49b16869f3178f367a63226e8bc162ad53371521c89b30dd567acfdf87e484d2bc5",
+        "requires": ">=24.10.0"
       }
     ]
   },
