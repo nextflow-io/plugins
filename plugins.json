@@ -4737,5 +4737,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-itdepends",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-itdepends/0.1.0/download/nf-itdepends-0.1.0.zip",
+        "date": "2026-02-12T17:38:08.175532Z",
+        "sha512sum": "9e597a1e6b2acd0ebdeacea5a25f8665a7e0fab9a0ffea8f71f52fb8a9804880bd0b5328e9d721da0909d2bfe6ee2dc49c82134177d8c18a4395ace8b8909ee0",
+        "requires": ">=24.04.0"
+      }
+    ]
   }
 ]
