@@ -4588,6 +4588,13 @@
         "date": "2025-11-10T15:30:41.127380Z",
         "sha512sum": "e1bf5c2c49bf01211e74ff9c9d3a58d1ef377a20ac14e2651748f6497d028e4b7c8b1b07c8f4b2f80c554cda08cfb5aa80bd45a612e3bbed1dd7c80c5eb0c6a0",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.3.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-ped/0.3.1/download/nf-ped-0.3.1.zip",
+        "date": "2026-02-16T13:25:34.175836Z",
+        "sha512sum": "795e9458a175d2fa9dec6854f444adbd0e50a2a65a5c83985310dfa81815d8d7efc418665f65facff69f2729472aa29f172aa1ec47cf0a108b430e0f9a291025",
+        "requires": ">=24.10.0"
       }
     ]
   },
