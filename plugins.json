@@ -3205,6 +3205,13 @@
         "date": "2026-02-25T09:27:46.147988Z",
         "sha512sum": "cdb6d70fa9523dffb9f6dc3580af2657179d8355409ccbfdc6427ad8a3246e9cac8d38e67bbb1d40035cbef79ede8ef678dca0f0093263fdd4479fe4cceab9ac",
         "requires": ">=25.04.0"
+      },
+      {
+        "version": "0.1.2",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-synapse/0.1.2/download/nf-synapse-0.1.2.zip",
+        "date": "2026-02-25T09:47:15.511526Z",
+        "sha512sum": "ebda0fea8c89cebba4d6cae9fbe2ac4bebbae628986489a85d5144603405eb394f373a22077ccbdd331cc5a0602cf268f8b03000ef120c033538d2cb02333b4a",
+        "requires": ">=25.04.0"
       }
     ]
   },
