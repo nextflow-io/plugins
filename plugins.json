@@ -4777,5 +4777,17 @@
         "requires": ">=24.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-cgroup-metrics",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-cgroup-metrics/1.0.0/download/nf-cgroup-metrics-1.0.0.zip",
+        "date": "2026-02-25T09:18:21.393723Z",
+        "sha512sum": "d87b41a8e79317479ebdaf5a56e4bdb1d6a95bb4ef23209c938cc4d4dbc69a3321ce009d41d035af30f170e9dce967de8dc0708fad0fb1ddc0a88969bd982e03",
+        "requires": ">=24.04.0"
+      }
+    ]
   }
 ]
