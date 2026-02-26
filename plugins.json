@@ -4801,6 +4801,13 @@
         "date": "2026-02-25T09:18:21.393723Z",
         "sha512sum": "d87b41a8e79317479ebdaf5a56e4bdb1d6a95bb4ef23209c938cc4d4dbc69a3321ce009d41d035af30f170e9dce967de8dc0708fad0fb1ddc0a88969bd982e03",
         "requires": ">=24.04.0"
+      },
+      {
+        "version": "1.0.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-cgroup-metrics/1.0.1/download/nf-cgroup-metrics-1.0.1.zip",
+        "date": "2026-02-26T13:52:57.855980Z",
+        "sha512sum": "f8eba7d8757444e32d4b398fd7f4057b0e89f8f446d785391f2a606bc4dc7aad3b963f0df9126a75e12d7792e321223c24a91c1314b538c06af8d71a83f243ed",
+        "requires": ">=24.04.0"
       }
     ]
   }
