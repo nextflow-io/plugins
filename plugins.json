@@ -4748,6 +4748,13 @@
         "date": "2026-01-18T13:11:31.252020Z",
         "sha512sum": "f8d98f0b17f2ce74a0c388b5e743048637bfc473a2ce5296dc6d1f85ad0dda80c140584fd43b718fdc4b33e9649e62ac6812a21c0488e8ae367faf3dd73f2c63",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.3.3",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-anndata/0.3.3/download/nf-anndata-0.3.3.zip",
+        "date": "2026-03-16T20:31:18.744867Z",
+        "sha512sum": "08d37f04015efd0f7da80d4b817cfa6449d10bf5a01f6177391bf36408ee241f1fb81f6d36b30c289ce2b7a350cc63ad2b672ae4aa29d512d63ff71ebe5a5e8c",
+        "requires": ">=24.10.0"
       }
     ]
   },
