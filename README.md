@@ -1,5 +1,9 @@
 # Nextflow Plugins index
 
+> [!WARNING]
+> This legacy plugin index is deprecated in favor of the new [Nextflow plugin registry](https://registry.nextflow.io/). Starting with Nextflow 25.10, the plugin registry is the _only_ method for downloading plugins, replacing the legacy plugin index.
+> Plugins that require Nextflow >= 25.10 will not be published in this GitHub repository.
+
 This repository stores the index of plugins that can be used by 
 [Nextflow](https://github.com/nextflow-io/nextflow).
 
