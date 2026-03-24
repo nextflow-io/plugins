@@ -4831,5 +4831,17 @@
         "requires": ">=24.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-emoji",
+    "releases": [
+      {
+        "version": "0.2.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-emoji/0.2.0/download/nf-emoji-0.2.0.zip",
+        "date": "2026-03-05T14:00:42.092215Z",
+        "sha512sum": "2c21f778ac724e2a4d5675477b03cf6713a50d099ab4736aac95058089cb5f397f093925a36df3049b8ad036db127dc31373b565f0f9991d6091bbc40878aec5",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
