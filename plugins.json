@@ -4838,5 +4838,17 @@
         "requires": ">=24.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-logsaver",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-logsaver/0.1.0/download/nf-logsaver-0.1.0.zip",
+        "date": "2026-03-25T15:25:17.723663Z",
+        "sha512sum": "e2c77abfb0db3e834335c11a4cd628be8a4b798b0e5013991e2d22e1b1a5dd4315870ab4ec860919618fb91381076b03fd1144aedd565a1ffb9121e308d2cb52",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
