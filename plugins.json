@@ -4850,5 +4850,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-report",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-report/1.0.0/download/nf-report-1.0.0.zip",
+        "date": "2026-04-03T00:23:00.306315Z",
+        "sha512sum": "93adfae2e006070d4d3f9bc999872d03875772495744308de4e4c30c9d54d1bb5b52e77a91ed4a4cc366eefee4728dff5fb2ba767ab52842e98d9b60700005a4",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
