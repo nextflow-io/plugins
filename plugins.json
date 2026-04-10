@@ -4862,5 +4862,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-r-ipc",
+    "releases": [
+      {
+        "version": "0.2.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-r-ipc/0.2.0/download/nf-r-ipc-0.2.0.zip",
+        "date": "2026-04-10T16:35:31.132465Z",
+        "sha512sum": "2e729b954639b204e6f0ec7a577d7e18591a580d2ffc03a764f21454cd6187cda8bb8422a7a1b04b3bfdacda35e78c0629fcffa8fa48d6b4552b26f89a8a97c2",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
