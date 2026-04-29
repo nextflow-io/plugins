@@ -4817,6 +4817,13 @@
         "date": "2026-02-12T17:38:08.175532Z",
         "sha512sum": "9e597a1e6b2acd0ebdeacea5a25f8665a7e0fab9a0ffea8f71f52fb8a9804880bd0b5328e9d721da0909d2bfe6ee2dc49c82134177d8c18a4395ace8b8909ee0",
         "requires": ">=24.04.0"
+      },
+      {
+        "version": "0.1.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-itdepends/0.1.1/download/nf-itdepends-0.1.1.zip",
+        "date": "2026-04-29T23:09:40.203383Z",
+        "sha512sum": "eb363a8ae0fc8740e60a35c5d31853a6c2026b9895314df49c3b9d1bab8e77d9a18484083c1f3458770a4f0873656a5b2199fc34a89f07c226aaf530d548fcdc",
+        "requires": ">=24.04.0"
       }
     ]
   },
