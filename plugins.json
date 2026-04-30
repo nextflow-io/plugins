@@ -3186,6 +3186,13 @@
         "date": "2024-12-24T15:30:39.472695-08:00",
         "sha512sum": "10e82a4003ea96bef2c7c83f6c34f7e15da9d76f3cdd20ec396ca28e903cfcf3f99f4a3d986a159f84788665f8e93d03da017f5eaebba0774f5bbfa3e2b7c569",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "1.0.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-quilt/1.0.0/download/nf-quilt-1.0.0.zip",
+        "date": "2026-04-30T19:42:39.540185Z",
+        "sha512sum": "2347cb2acadc855cf7450547b0b28040d57cf2ac6f86dd418e5315408e7198391626a7100f4eeacc4c4ce091bc9d5ada48c79f041fe0f4548175f9c38e802925",
+        "requires": ">=24.10.0"
       }
     ]
   },
