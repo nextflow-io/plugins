@@ -4888,5 +4888,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-oci",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-oci/0.0.1/download/nf-oci-0.0.1.zip",
+        "date": "2026-05-17T17:03:53.754270Z",
+        "sha512sum": "1d57dbbdfbf6ba26681efcce6a42895498ab09f37c92251f281ee26e6ac847999b1235a63a81f23399326fa63fcc83aee883d4dc428f5e67cd61bafc1270ec2b",
+        "requires": ">=25.04.4"
+      }
+    ]
   }
 ]
