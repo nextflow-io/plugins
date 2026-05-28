@@ -4900,5 +4900,17 @@
         "requires": ">=25.04.4"
       }
     ]
+  },
+  {
+    "id": "nf-crukci-support",
+    "releases": [
+      {
+        "version": "1.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-crukci-support/1.1.0/download/nf-crukci-support-1.1.0.zip",
+        "date": "2026-05-28T15:31:21.839342Z",
+        "sha512sum": "c68535dcc22dfaed5b037fd0b6cd200f36aaf8cfb600772054cfaf37dc813067d176af7d58434d28ff9137813d0ee963e703ca369fd44e555aa6cbf60d8ad7e1",
+        "requires": ">=25.04.4"
+      }
+    ]
   }
 ]
