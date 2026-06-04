@@ -4907,6 +4907,13 @@
         "date": "2026-04-10T17:01:25.157731Z",
         "sha512sum": "b70f3261e542f2af0961e6df3103563892e121f81910db76b3a82b1288657d45b34f50d9d8ccbe9186ded0459ba973c3b312ecef1feab6f788be304476939efc",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.2.2",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-r-ipc/0.2.2/download/nf-r-ipc-0.2.2.zip",
+        "date": "2026-06-04T14:51:39.629437Z",
+        "sha512sum": "c3299441e9a6f48d0552a03d5725cbaa1720e855541860fc9b4a76381d07e6f43dd5e9ca1bc7d52e420ebca2ce0b4e0122d21e7b98c58791318f56fd3f3b95ad",
+        "requires": ">=24.10.0"
       }
     ]
   },
