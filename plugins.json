@@ -4980,5 +4980,17 @@
         "requires": ">=24.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-irods",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-irods/0.1.0/download/nf-irods-0.1.0.zip",
+        "date": "2026-06-15T18:49:48.223534Z",
+        "sha512sum": "a8de1e1b90934e058286abc9c4c7f3ae43e69ffed73df5ea3ae8539b9802ade3f404f0ddc941c41dda3c86d122aa34989471e897a6166fac5947d8ed8e8b9ef9",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
