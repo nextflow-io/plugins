@@ -4938,6 +4938,13 @@
         "date": "2026-06-02T13:38:12.200814Z",
         "sha512sum": "8ec69a54083d46e2a3b7e555c6c8789943154633089efbb38de2f58a72c76bf0e1569f2b42b3c56010be61281c15781ce0e8e41204766ef9b9cde11b3ab0479c",
         "requires": ">=25.04.4"
+      },
+      {
+        "version": "1.1.2",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-crukci-support/1.1.2/download/nf-crukci-support-1.1.2.zip",
+        "date": "2026-06-15T10:44:38.109244Z",
+        "sha512sum": "fbfa57834b0c2b93a2a874f06feb5d8959192a46ff79760edf260bf816d1091851d1ae0d4b413545f26be3c6a931b410769cad027f76f7509dd6e37b9983fbe3",
+        "requires": ">=25.04.4"
       }
     ]
   },
