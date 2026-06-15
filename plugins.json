@@ -4978,6 +4978,13 @@
         "date": "2026-06-03T07:51:28.548156Z",
         "sha512sum": "37a284df0a3df1b7129714d521d5f9ae4ba5db37b99ee5c99438a22ba864fdd93e023524b0664a0fb7903a79df79576377e4ca81fd1ee6f3a1e999e857226557",
         "requires": ">=24.04.0"
+      },
+      {
+        "version": "1.0.8",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-llm-debugger/1.0.8/download/nf-llm-debugger-1.0.8.zip",
+        "date": "2026-06-15T16:53:41.669395Z",
+        "sha512sum": "d41bbbbbb400393f3838536278e57fcc86cc532cbcccaa072be37094ef3799d59f463e43497c0061226127d97c2141db4673fdddf1fc4ecb994ac695e1c36871",
+        "requires": ">=24.04.0"
       }
     ]
   }
