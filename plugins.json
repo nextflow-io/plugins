@@ -4992,5 +4992,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-llm-debugger",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-llm-debugger/1.0.0/download/nf-llm-debugger-1.0.0.zip",
+        "date": "2026-06-02T15:18:24.063030Z",
+        "sha512sum": "2a01630dad6eee0dc83ee0ea8592d8c61fc036cd4d1a7330b61411eeaeb45882fe3e6c0c6a780a9487f8bb7fc2e7429f3bd792480fcccccc0ce33d9f77b89ca3",
+        "requires": ">=24.04.0"
+      }
+    ]
   }
 ]
