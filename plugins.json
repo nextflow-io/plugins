@@ -4999,5 +4999,17 @@
         "requires": ">=24.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-drs",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-drs/0.1.0/download/nf-drs-0.1.0.zip",
+        "date": "2026-06-18T12:23:02.220588Z",
+        "sha512sum": "08416a2eb7894f7b88863b25214e46702f1f8ff9d26f24fb103763e6fa382368ff993b089da10205eae9e71e4db7a5f3ce9f8f04bb3a73d41d17c63907f56941",
+        "requires": ">=25.04.0"
+      }
+    ]
   }
 ]
