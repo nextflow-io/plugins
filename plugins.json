@@ -4997,6 +4997,13 @@
         "date": "2026-06-15T18:51:37.889127Z",
         "sha512sum": "f0223f56184853f72dc19e3bd208e0c70dcebdfab7a396750e6e4205fa2f681f76c411936bf57738873650422781c8b986965fb4318f34efff3c53144614c34d",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.1.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-crg-genomics-lims/0.1.1/download/nf-crg-genomics-lims-0.1.1.zip",
+        "date": "2026-06-19T11:11:38.478146Z",
+        "sha512sum": "ce2c35c23ff15abf7a1cd0623b06a127be2e9c796f3b8ce095f8bb74067a6745153b9f1cf23f5cb9c088d37c6587a1c0af236b19dd8861d749e497bd2c366917",
+        "requires": ">=24.10.0"
       }
     ]
   },
