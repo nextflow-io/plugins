@@ -4578,6 +4578,13 @@
         "date": "2026-07-07T20:29:32.691999Z",
         "sha512sum": "8f42948c2e27cece4c910eeb5ff0f2a8cfa2b36a29b652e0127c5393b07e3e17c205ae3e79e6d81ea0868261bc2f5d23b4a89cfeb87fa73e3fb979a52c65a6dc",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.1.0-beta.11-bidsignore.3",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-bids/0.1.0-beta.11-bidsignore.3/download/nf-bids-0.1.0-beta.11-bidsignore.3.zip",
+        "date": "2026-07-07T20:43:31.414636Z",
+        "sha512sum": "9b902b7c9ab9e3852ee11d3766a26fab599c001aac516a38ac84d187923cc926fd9e0e3002b282116ba88dc7b432accfd7b8cc338f0512f6d8779e085a9ecad5",
+        "requires": ">=24.10.0"
       }
     ]
   },
