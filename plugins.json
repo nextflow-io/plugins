@@ -4592,6 +4592,13 @@
         "date": "2026-07-07T20:45:27.945543Z",
         "sha512sum": "c939aa46cea79a8832cdd3bc9a5153370b0af098bbb0a16ff08a3471ad94829dfe58d655fcdda7f825a50c4bf8378d463fc238cbb1d1fc83171e9a9cd9f505bd",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "0.2.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-bids/0.2.0/download/nf-bids-0.2.0.zip",
+        "date": "2026-07-08T01:04:42.094235Z",
+        "sha512sum": "0d9604eb74323f483234b3e659611409fae4df87bc8e3a8646fe260356f735f5b8e659ac958ed41510b593dd24f6ce96e111b8004663329e4d72c37cf3f5ac20",
+        "requires": ">=24.10.0"
       }
     ]
   },
