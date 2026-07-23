@@ -4458,6 +4458,13 @@
         "date": "2026-07-23T08:42:43.587073Z",
         "sha512sum": "051e08012d0708b3664b0ea4615caf01baa4c5b37e03fc58ac783cefa54cd276c892ccb35985479439b2f494832585b99ffb83098cc5d7afb56ef8334ee391a0",
         "requires": ">=24.11.0-edge"
+      },
+      {
+        "version": "0.1.0-edge5",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-aspera/0.1.0-edge5/download/nf-aspera-0.1.0-edge5.zip",
+        "date": "2026-07-23T10:01:28.656611Z",
+        "sha512sum": "b61a46c451c8a0460201679d058c8c1e0b682df086b98b9096565f44fd95b1591db74195baad0083227220ba219e97635d2c5eab79e55c18d61f2d38c19e3658",
+        "requires": ">=24.11.0-edge"
       }
     ]
   },
