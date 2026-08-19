@@ -5088,5 +5088,17 @@
         "requires": ">=25.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-runinsights",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-runinsights/0.1.0/download/nf-runinsights-0.1.0.zip",
+        "date": "2026-08-19T08:50:20.716579Z",
+        "sha512sum": "1c210d8505cb832bdcfc2e4db836971e4aa4bc9a46eceed813d030c77c1252d26d61ff115ca5d4a408a2c5efe53fd9d246e6f06a0ba8f22231365d582361335e",
+        "requires": ">=24.10.0"
+      }
+    ]
   }
 ]
