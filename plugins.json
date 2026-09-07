@@ -4799,6 +4799,13 @@
         "date": "2025-12-31T02:23:36.355311Z",
         "sha512sum": "46d4a18f9f3cdae08bf3dc780d495008299250b055d7bb94a4a6b0911d5757903884f9a082ed2014a045fe36c8e55ac8e6720ab66188b168846c15dd3ffe02c2",
         "requires": ">=24.10.0"
+      },
+      {
+        "version": "1.1.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-pregex/1.1.0/download/nf-pregex-1.1.0.zip",
+        "date": "2026-09-07T14:46:23.036231Z",
+        "sha512sum": "60c63948a3bc5903ba83c2f1bd82ebd9f5efe9e37b27ebd7e359fee74b0a872e1c6cd4db8047b48dbe91e09a34ed1e7e9885e002eba7020b0cdf7a5db94612fe",
+        "requires": ">=24.10.0"
       }
     ]
   },
