@@ -5088,5 +5088,17 @@
         "requires": ">=25.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-diff",
+    "releases": [
+      {
+        "version": "0.9.1",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-diff/0.9.1/download/nf-diff-0.9.1.zip",
+        "date": "2026-09-21T05:23:13.309702Z",
+        "sha512sum": "cbec0c6a727777022491b3ad7fadc01e5596d2873db864ee7659d38c81ea9f68efb5d8fa5c009702a6229c98be5b8622e66a25ea84b9a5c31ed6829e24346c38",
+        "requires": ">=25.04.0"
+      }
+    ]
   }
 ]
