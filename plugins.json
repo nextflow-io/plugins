@@ -4893,6 +4893,13 @@
         "date": "2026-07-27T05:58:37.585470Z",
         "sha512sum": "4a2c8fe9bdf16f573ac0b23e5e1f3b2afa428337033cf5a5867cb70bf25638baedda5988efa130e71cb3d979ecc65c4dc5e9f7d0145610a3b763a722437adc0a",
         "requires": ">=24.04.1"
+      },
+      {
+        "version": "1.4.0",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-gadi/1.4.0/download/nf-gadi-1.4.0.zip",
+        "date": "2026-08-20T06:13:20.946213Z",
+        "sha512sum": "e364e61ec0f1c5026e3d1e3f162db1bd4544c9e9eb249aa0baf2b514f82474bfa3bf0199941e5935d459f13cf796624905199e18ca4c74257f3d31be7d9041a1",
+        "requires": ">=24.04.1"
       }
     ]
   },
