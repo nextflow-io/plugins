@@ -5126,6 +5126,13 @@
         "date": "2026-11-03T04:09:31.563537Z",
         "sha512sum": "6e11ab54f25bb778a72e6847e456c0779fb2be7e0a72fcaacbd52075ca03893e3688475d3d68529faba0986276015dc2ccc53980a6e561d014e8f7f2ff8380a6",
         "requires": ">=25.04.0"
+      },
+      {
+        "version": "0.9.7",
+        "url": "https://registry.nextflow.io/api/v1/plugins/nf-diff/0.9.7/download/nf-diff-0.9.7.zip",
+        "date": "2026-11-12T22:24:20.077179Z",
+        "sha512sum": "6c1cbe84ab98b5eb4c314c40bb5178fe9bf7d3d78016a3f3acfda12b18726f55e269f9b3b2a98369c1535872528a4b4e76d7cddc98104026c374ae7c1a9645e5",
+        "requires": ">=25.04.0"
       }
     ]
   }
